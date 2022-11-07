@@ -1,0 +1,2837 @@
+4. Moeda, inércia e conflito: reflexões sobre políticas de estabilização no
+Brasil
+
+17
+
+
+
+4.1. Introdução
+
+
+
+Este texto propõe-se a uma revisão – seletiva, estilizada e idiossincrática – dos
+debates recentes sobre política de estabilização no país. Três elos da tradição da
+análise ortodoxa sobre inflação são usados como fios condutores desses debates:
+a) o déficit fiscal comanda a expansão monetária; b) a expansão monetária
+comanda as expectativas inflacionárias; e c) as expectativas inflacionárias
+determinam o curso da inflação.
+
+Discutem-se, inicialmente, questões relacionadas ao conceito apropriado de
+déficit a se usar, numa perspectiva de controle da expansão monetária.
+Considera-se a seguir o debate sobre a inércia e as expectativas como fatores
+determinantes da taxa observada de inflação. O assunto seguinte é a controvérsia
+entre a inflação inercial e a inflação por conflito distributivo.
+
+Problemas relacionados às disputas sobre o fato de a moeda ser ativa ou passiva
+constituem o próximo tópico. A seção final abre-se com uma avaliação das
+tendências recentes da inflação no país, para concluir com uma breve listagem
+dos requisitos de uma política de estabilização que incorpore as lições de nossa
+história e de nossos debates.
+
+
+
+4.2. Déficit nominal versus operacional
+
+
+
+Uma primeira controvérsia a respeito dos elos da cadeia ortodoxa refere-se a
+qual é o conceito de déficit relevante para avaliar as necessidades de
+financiamento do governo através da emissão monetária em circunstâncias,
+como a brasileira, em que a dívida pública é um importante componente tanto do
+gasto governamental como de seu financiamento. Trata-se da distinção entre
+déficit “nominal” e déficit “operacional”, a qual aparentemente ainda não está
+devidamente assentada. Comecemos por aí, notando inicialmente que a diferença
+entre esses dois conceitos refere-se à inclusão ou não, nos gastos do governo,
+daquela parcela dos juros sobre a dívida pública que simplesmente compensa
+seus detentores pela perda de valor da dívida preexistente, causada pela alta dos
+preços ao longo do período de execução orçamentária.18
+
+Consideremos uma situação de inflação estável, para simplificar a análise,
+supondo que a economia esteja em estado estacionário. Tomando os preços do
+fim do período como unidade de medida, as adições ao estoque da dívida do
+governo, entre o início e o fim de um período orçamentário, podem ser divididas
+em duas partes: a variação real da dívida no período e a compensação pela perda
+de valor da dívida preexistente, devido à alta do nível de preços entre o início e o
+fim do período em causa. Em símbolos:
+
+
+
+
+                    ΔB = ΔB* + pB-1 (1)
+onde ΔB é a variação observada da dívida no período, ΔB* a sua variação real, p
+a taxa de inflação entre o início e o fim do período e B–1 a dívida no início do
+período.
+
+O segundo termo do lado direito dessa equação (pB-1) nada mais é do que a
+correção monetária da dívida preexistente. Suponhamos agora que o déficit
+nominal do governo seja exatamente igual à correção monetária da dívida
+preexistente. Então, tudo o que o governo terá de fazer será emitir novos títulos
+no volume exato para fazer a rolagem dos títulos preexistentes, incluindo a
+correção monetária a que eles fazem jus. Com isso, o governo não estará
+adicionando um cruzado sequer à sua dívida real que é retida pelo público. Em
+outras palavras, a menos que o governo deseje reduzir sua dívida com o público
+em termos reais, não terá de emitir um só cruzado para financiar um déficit
+nominal, por maior que esse seja, desde que provocado exclusivamente pela
+correção monetária da dívida preexistente.
+
+Se tomarmos, pois, como padrão de referência a manutenção da constância da
+dívida do governo em termos reais, deveremos, por consequência, excluir a
+correção monetária da dívida do déficit do governo que potencialmente
+necessitaria ser financiado por uma expansão monetária. Isso quer dizer que,
+para os propósitos de política de estabilização, em vez de nos preocuparmos com
+o déficit nominal, temos de nos preocupar com o déficit operacional, como de
+fato vem ocorrendo no Brasil desde 1984.
+
+Mais ainda, numa situação de inflação constante, que o governo não pretenda
+combater, é o déficit real, e não o déficit operacional, que deveria causar
+preocupação. O déficit real difere do operacional por computar entre as receitas
+do governo o imposto inflacionário, ou seja, aquela parte do aumento nominal da
+base monetária que representa a mera reposição, pelo público, da redução do
+valor real da base monetária preexistente, causada pela inflação observada entre
+o início e o fim do período orçamentário. Desde que o déficit real esteja zerado,
+o governo não estará exercendo qualquer pressão para fazer variar a taxa de
+inflação, pois nesse caso estará suprindo o setor privado de moeda apenas na
+medida necessária para acomodar a inflação preexistente.
+
+Essas colocações parecem ser hoje aceitas por uma grande maioria de
+economistas, mas aparentemente ainda não pelo staff do FMI. Assim, em texto
+recente, supostamente de revisão de seus próprios procedimentos, eles escrevem:
+
+
+
+(...) o déficit operacional pode subestimar seriamente as consequências
+monetárias e sobre a demanda agregada das operações de financiamento do
+governo. Qualquer que seja a definição do déficit, os requisitos totais de
+empréstimos, em termos nominais, têm de ser financiados e esse financiamento
+tem de ser monitorado num programa para controlar a expansão total do crédito
+doméstico.19
+
+
+
+Na análise acima, estivemos supondo que a correção monetária da dívida do
+governo fosse igual à inflação efetivamente observada no período de execução
+orçamentária. Nesse contexto, queremos crer que a posição do Departamento de
+Pesquisa do FMI esteja equivocada. Mas, no contexto brasileiro, é importante
+reconhecer o fato de que a compensação pela inflação que recebem os detentores
+da dívida pública – seja na forma da correção monetária ou cambial sobre os
+títulos com correção pós-fixada, seja na forma de descontos sobre o valor de face
+dos títulos com correção prefixada – tem por base a inflação passada, e não a
+inflação contemporânea.
+
+Nesse regime de indexação defasada ocorrerá uma supercorreção dos títulos do
+governo, que não pode ser absorvida por uma mera rolagem da dívida
+preexistente, sempre que a inflação cair. O valor dessa supercorreção será igual à
+diferença entre a “nova” inflação pós-estabilização e a “velha” inflação, em que
+se baseia a correção monetária, multiplicada pelo estoque da dívida preexistente.
+Esse valor poderá ser substancial quando se está contemplando uma política de
+estabilização a partir de uma inflação tão alta como a brasileira.
+
+Nesse contexto, se, ao cair a inflação, se mantiverem inalteradas as regras de
+correção monetária, haverá a necessidade de uma significativa expansão
+monetária (ou então de uma expansão da dívida do governo em termos reais),
+ainda que o déficit operacional esteja zerado. No caso limite, em que se objetiva
+trazer a inflação de chofre para zero, somente não haverá necessidade de
+expansão monetária caso o déficit nominal esteja zerado. É nesse contexto que
+se torna válida a preocupação do FMI com o déficit nominal.
+
+Essa preocupação não representa, nesse caso, um equívoco de análise, mas sua
+aplicação prática implicaria romper um dos princípios básicos de uma boa
+política de estabilização, a saber, a neutralidade distributiva.
+
+Isso porque quando a inflação cai, a indexação defasada de fato provoca uma
+supercorreção monetária, que gera substanciais ganhos de capital para os
+detentores dos títulos do governo, à custa dos contribuintes como um todo. É por
+isso que o professor Octavio Gouvêa de Bulhões propôs a supressão da correção
+monetária dos títulos do governo como parte integral de uma política de choque
+anti-inflacionário, ou seja, ao invés de controlar o déficit nominal, premiando os
+rentistas com um substancial ganho de capital, o correto seria controlar o déficit
+operacional, simultaneamente desindexando a dívida preexistente – seja sob a
+forma da aplicação de uma correção pro rata para os títulos pós-fixados, seja sob
+a forma de uma tablita de conversão financeira para os títulos com correção
+prefixada.
+
+
+
+4.3. Expectativas versus inércia
+
+
+
+Passemos, então, aos demais elos da corrente ortodoxa. Deixando
+temporariamente de lado a questão da interação entre a expansão monetária e as
+expectativas inflacionárias, tratemos da relação entre essas expectativas e a
+inflação observada. De acordo com a versão de Friedman e Phelps para a curva
+de Phillips, podemos escrever:
+
+
+
+
+                    p = p* – e(u – u’) (2)
+onde p é a taxa observada de inflação, p* a taxa esperada de inflação, e o
+coeficiente do impacto do desemprego sobre a inflação, u a taxa observada de
+desemprego e u’ a taxa natural de desemprego. Na prática econométrica
+brasileira, devido à inexistência de séries longas de desemprego, u e u’ têm sido
+frequentemente substituídos, respectivamente, pelos graus observado e potencial
+de utilização da capacidade instalada.
+
+Na tradição inercialista brasileira, entretanto, a curva de Phillips tem sido escrita
+da seguinte forma:
+
+
+
+
+                    p = p–1 – e(u– u’)(3)
+onde p–1 é a taxa de inflação do período anterior e os demais termos são como
+em (2). Via de regra, obtém-se a equação (3) de uma equação de preços com
+mark-up constante, aplicado sobre custos variáveis de produção ajustados com
+periodicidade fixa em relação à inflação passada.
+
+No início da década, o debate brasileiro entre “monetaristas” e “inercialistas”
+esteve equivocadamente centrado na questão de se o valor do coeficiente e, que
+mede o impacto do desemprego sobre a desaceleração da inflação, seria ou não
+significativamente diferente de zero. Alguns pós-keynesianos chegaram até a
+sugerir que e seria negativo, devido ao comportamento anticíclico do mark-up.
+Essa questão empírica foi eventualmente resolvida por Modiano (1985) a favor
+dos monetaristas: aqui, como nos Estados Unidos, constatou-se ter e um valor
+próximo da unidade, em estimativas econométricas envolvendo a utilização de
+dados anuais para a inflação e o desemprego. Desse modo, a cada aumento de
+um ponto percentual no desemprego corresponderia uma redução de um ponto
+percentual na taxa anual de inflação. Essa, entretanto, foi uma vitória de Pirro
+para os monetaristas, uma vez que, dado esse resultado, o que interessa para a
+avaliação de políticas é o ponto de partida da taxa de inflação. Se a taxa anual de
+inflação inicial é de 10%, como nos Estados Unidos, basta um ano de
+desemprego de 10 pontos percentuais acima da taxa natural para reduzir a
+inflação a zero no ano seguinte. Já se o ponto de partida é uma taxa de inflação
+de 100% ao ano, como no Brasil dos bons tempos, seriam precisos 10 anos de
+desemprego dessa magnitude para alcançar o mesmo resultado.
+
+O ponto principal da crítica inercialista não está, na verdade, na discussão sobre
+se o valor do coeficiente e é exatamente igual a zero ou meramente pequeno em
+relação à taxa de inflação preexistente, mas sim na substituição da taxa esperada
+de inflação, p*, pela taxa observada de inflação no ano anterior, p–1, na
+determinação da inflação observada nesse ano. Isso implica que a curva de
+Phillips não se desloca para baixo, meramente pelo anúncio de uma contração
+monetária – pois essa não pode agir sobre p–1, ainda que possa eventualmente
+afetar o estado das expectativas inflacionárias – mas somente em consequência
+da manutenção de um estado prolongado de desemprego na economia. Em suma,
+mantida a ligação da inflação presente à inflação passada, seria excessivo o custo
+em termos de desemprego de uma política de estabilização baseada apenas na
+contração monetária.
+Esse desemprego seria provocado ou por uma contração da demanda real, no
+caso de rigidez tanto da taxa de variação dos preços quanto da dos salários, ou
+por uma queda da oferta real, no caso de indexação defasada de salários, mas
+com a variação dos preços respondendo ao menor ritmo de crescimento da
+demanda nominal. A proposta de desindexação salarial, constante dos planos de
+estabilização de regimes conservadores na América Latina desde o início dos
+anos 1960, corresponde a uma preocupação exclusiva com a rigidez dos salários.
+A adição, a essa desindexação, de um congelamento dos preços nos planos
+heterodoxos de estabilização corresponde a uma preocupação também com a
+rigidez dos preços.
+
+Assim, o controle de preços e a desindexação salarial aparecem como
+ingredientes necessários de uma política de estabilização, para neutralizar o
+efeito negativo que a contenção monetária, possibilitada pelo controle do déficit
+operacional do governo, teria sobre o nível de emprego.
+
+
+
+4.4. Inércia versus conflito
+
+
+
+Quero crer que a necessidade de aliar políticas de supressão da inércia
+inflacionária às políticas de controle monetário-fiscal constitua, a esta altura,
+matéria mais ou menos consensual entre os economistas brasileiros, pelo menos
+num nível conceitual. Como suprimir a inércia, entretanto, continua sendo um
+tema controverso. Pois, ainda que as hipóteses ultramonetaristas de um Thomas
+Sargent, por exemplo, tenham pouca ressonância no país, continua a haver uma
+controvérsia entre inercialistas e – com o perdão da palavra – conflitistas sobre a
+natureza dessa inércia. Além disso, modelos inerciais tipicamente supõem que a
+moeda seja endógena e têm, por isso mesmo, muita dificuldade de avaliar o
+impacto sobre as expectativas inflacionárias de regimes de moeda ativa.
+
+Tratemos, primeiro, da controvérsia sobre a inércia inflacionária, partindo da
+hipótese da inflação por conflito distributivo, que pode ser ilustrada com um
+modelo simples. Seja um mundo de um só produto, sem governo, nem matérias-
+primas, em que a moeda é o único ativo financeiro e no qual a equação de preços
+é dada por:
+P = m.w (4)
+onde P é o preço do produto final, m a força do mark-up e w a taxa de salários e
+onde se supõe que a produtividade do trabalho seja constante e igual a 1.
+
+Seja m* o mark-up desejado e (w/P)* o salário real desejado, sendo verdade que:
+
+
+
+
+                       m* (w/P) * > 1 (5)
+Há uma inconsistência distributiva, no sentido de que a soma das parcelas
+desejadas de renda é superior à unidade. Supõe-se tipicamente, então, que os
+empresários possam fazer valer seus desejos, enquanto que os trabalhadores
+reajam defasadamente a variações de preços. Assim, por exemplo:
+
+
+
+
+                               m = m*(6)
+e:
+
+
+
+
+     W = P–1 . (w /P)* (7)
+Disso resulta, por substituição em (4), que:
+
+
+
+
+  (P/P–1) – 1 = p = m* (w/P) * – 1 (8)
+ou seja, a taxa de inflação é proporcional à intensidade do conflito distributivo.
+
+Nesse modelo, a inércia inflacionária é derivada do conflito distributivo e não
+pode ser erradicada, a menos que haja uma solução prévia para esse conflito.
+
+Uma objeção às conclusões desse modelo pode ser construída a partir de uma
+hipótese de racionalidade por parte dos assalariados, num contexto
+concorrencial. Se há inflação, dada a equação (7), o salário real observado, w/P,
+será necessariamente menor do que o salário real inicialmente desejado (w/P)*.
+Mas, nesse caso, os assalariados deveriam reduzir sua oferta de mão de obra,
+tendo em vista que, dentro dos pressupostos marginalistas tradicionais, o salário
+real inicialmente desejado deveria estar correspondendo ao valor da mão de obra
+em ocupações alternativas. Ocorrendo esse ajuste, na nova margem do emprego
+assalariado o salário observado deverá necessariamente estar correspondendo ao
+salário desejado. Segue-se daí que os trabalhadores que optaram por manter-se
+na situação de assalariados deveriam ser indiferentes entre uma situação de
+inflação e uma situação de estabilidade, desde que o salário médio real
+observado fosse o mesmo, ou seja, o conflito original não precisaria ser sanado
+para permitir a estabilização, porque ele já teria sido superado ao longo do
+próprio processo inflacionário.
+
+Mesmo que abandonemos as hipóteses neoclássicas e consideremos o modelo do
+conflito distributivo num ambiente de negociações coletivas, continuam a
+aparecer dificuldades. Pois o salário real médio que emerge dessas negociações
+num contexto inflacionário é uma solução de equilíbrio, no sentido de que
+merece a adesão voluntária dos sindicatos, por mais que – por uma questão de
+barganha – eles estejam continuamente levantando a bandeira da reposição do
+salário-pico. Se não estivessem de fato acomodados com o resultado da
+barganha, esses sindicatos teriam a opção de demandar uma redução da
+periodicidade dos reajustes salariais. Se não o fazem é presumivelmente por
+causa do receio que têm de que isso provoque desemprego. Mas aí recaímos no
+caso anterior, em que, na margem do emprego, o salário real médio observado
+equivale ao salário desejado. Somente a dificuldade de assegurar a
+simultaneidade das decisões de salários e preços poderia racionalmente justificar
+a recusa dos sindicatos em aceitar, numa situação de estabilidade de preços, o
+mesmo salário real médio que estiveram dispostos a aceitar numa situação
+inflacionária – conclui a crítica inercialista ao “conflitismo”.
+É com base em raciocínios desse tipo que os inercialistas tenderam a
+desconsiderar questões relativas ao conflito distributivo na concepção e
+implantação do Plano Cruzado. O pressuposto foi o de que a inércia inflacionária
+persistia, não por causa da intratabilidade do conflito distributivo, mas por causa
+das dificuldades de coordenação dos movimentos de preços e salários, num
+sistema descentralizado de decisões de preços, com contratos salariais
+superpostos. A imagem de Tobin (1981), de uma plateia assistindo de pé ao jogo
+de futebol, quando todos poderiam estar vendo melhor o jogo sentados, desde
+que houvesse um movimento coordenado nesse sentido, ilustra perfeitamente
+bem essa hipótese inercialista.
+
+Se substituirmos a taxa de inflação pelo nível de preços, iremos ver que esse
+debate entre conflitistas e inercialistas reproduz quase ipsis litteris um outro
+debate, que já dura 50 anos na literatura econômica, sobre se os assalariados na
+Teoria Geral de Keynes sofrem ou não de “ilusão monetária” ao recusar um corte
+dos salários nominais, mas aceitar uma redução equivalente do salário real, por
+via de um aumento dos preços. Na verdade, estou aqui fazendo o papel do
+advogado do diabo a respeito da inflação por conflito distributivo, por continuar
+convencido de que essa hipótese oferece um rico filão para a compreensão dos
+problemas enfrentados pelas políticas de estabilização no país, tanto na Velha
+como na Nova República.
+
+Recordo-me de um texto de Solow (1979), discutindo a hipótese da rigidez de
+preços e salários num contexto de expectativas racionais, em que diz que não
+será porque ele ainda não conseguira derivar essa rigidez de um modelo
+atendendo a todos os requisitos da moderna teoria econômica que deixaria de
+acreditar na existência desse fenômeno – porque os preços e salários nominais
+são rígidos! Da mesma maneira, não será porque ainda não tenha tido
+conhecimento de um modelo de conflito distributivo que seja totalmente
+consistente com a racionalidade econômica que deixarei de acreditar em sua
+importância para explicar tanto a inflação como as dificuldades da política de
+estabilização, pois essa importância é visível a olho nu. O desenvolvimento de
+uma teoria econômica consistente para a teoria “sociológica” do conflito
+distributivo continua sendo um dos mais intrigantes desafios para a investigação
+econômica brasileira sobre políticas de estabilização.
+
+Uma hipótese que talvez valha a pena explorar é a seguinte: quando a inflação é
+parte do jogo, os sindicatos, após um período de aprendizado, avaliam
+racionalmente que de nada adianta tentar elevar salários acima da inflação
+passada ou reduzir a periodicidade dos reajustes salariais porque isso apenas
+redundaria em mais inflação. O fato de os empresários deterem o controle sobre
+a fixação de preços e de o governo, por sua política monetária, validar esse
+controle frustra antecipadamente qualquer esperança sindical de, através de um
+maior ativismo, romper os limites de variação salarial dados por (7). Num
+contexto inflacionário, a posição inferior de barganha dos sindicatos impede que
+eles insistam em obter a parcela da renda que consideram justa. Entretanto, caso
+se defina um novo jogo, em que o governo congele os preços ou adote uma
+política monetária que não mais acomode a inflação preexistente, por si mesmo
+isso não afetará a disposição dos sindicatos de manter sua meta de renda real. A
+percepção será a de que seu poder de barganha aumentou, de modo que eles
+estariam exigindo algum tipo de compensação – garantia de emprego, por
+exemplo – para renunciar à antiga meta de salário real nessas novas
+circunstâncias.
+
+
+
+4.5. Moeda ativa versus passiva
+
+
+
+Passando agora à questão da interação entre a política monetária e as
+expectativas inflacionárias, é preciso inicialmente notar que tanto os conflitistas
+como os inercialistas mantêm uma relação bastante ambígua em relação à oferta
+de moeda. Um pressuposto tradicional é que ela seja passiva, funcionando o
+Banco Central como um deus ex machina que, sempre que necessário, faz
+chover exatamente o volume de dinheiro necessário para validar a inércia
+inflacionária, nem mais nem menos. Mas isso implica que o Banco Central
+expanda suas operações ativas somente quando a demanda por base monetária
+sobe sob o impulso de um nível de preços mais elevado. Dada a óbvia falta de
+controle que o Banco Central tem sobre suas operações ativas, essa hipótese de
+moeda passiva é algo que ultrapassa os limites da credulidade no contexto
+institucional brasileiro e, além disso, não é confirmada pelos estudos
+econométricos disponíveis (um exemplo recente é Barbosa e Pereira [1987]).
+Uma hipótese mais plausível é a de uma política monetária endógena, na qual a
+oferta de moeda responda seja à demanda de crédito gerada pela inércia
+inflacionária seja àquela gerada pela necessidade de financiamento bancário do
+déficit operacional do governo.
+Face à falta de evidência de uma política monetária passiva, os inercialistas
+respondem com a evidência empírica sobre a curva de Phillips, segundo a qual é
+apenas num prazo muito longo que a inflação se adapta às variações na taxa de
+expansão monetária. Depois da experiência do Plano Cruzado, os inercialistas
+possivelmente estarão também dispostos a aceitar uma dose significativa de
+assimetria entre as consequências de variações para mais e para menos da taxa
+de crescimento da oferta monetária. Para desacelerações, valeria a curva de
+Phillips inercialista da equação (3). Para acelerações, deveria também ser levada
+em conta a curva de Phillips expectacional da equação (2). Mas, de todos os
+modos – efeitos de remonetização à parte – os inercialistas aceitariam que, numa
+política de estabilização, é preciso atuar sobre os determinantes da inflação tanto
+de curto prazo – a indexação – como de longo prazo – a expansão monetária
+exigida pelo déficit operacional do governo.
+
+Já os conflitistas parecem ter uma visão bem menos acabada das consequências
+de uma redução da taxa de expansão monetária por via de uma redução do
+déficit do governo. Para ilustrar, consideremos uma versão do modelo de
+conflito, em que o gasto real do governo represente uma subtração de recursos
+do setor privado. Nesse caso, o grau do conflito seria medido por:
+
+
+
+                    grau do conflito = m*w* – (1 – g)      ( 9)
+
+
+
+no qual g é a parcela do produto gasta pelo governo. Note-se que estamos aqui
+introduzindo um princípio de racionalidade no conflito distributivo, ao asseverar
+que o que importa para a intensidade do conflito entre assalariados e empresários
+é quanto o governo absorve, e não a forma como se financia essa absorção, a
+qual pode ser feita através de impostos diretos, indiretos ou inflacionários.
+Também estamos supondo que os gastos do governo sejam totalmente
+improdutivos para arrefecer o conflito, ou seja, que esses gastos em nada
+contribuam para aumentar a disponibilidade de bens e serviços para o setor
+privado.
+
+Consideremos agora uma situação em que o governo, decidido a combater a
+inflação, aumente os impostos e reduza a expansão monetária. O grau de conflito
+deveria ser o mesmo, porque apenas mudou a forma de financiamento, mas não
+a parcela do produto retirada pelo governo. Desse modo, a inflação não deveria
+cair. Ocorre, entretanto, que agora não há suficiente expansão monetária para
+sustentar a inflação. Alguma coisa tem de ceder, mas não é claro o que seja. Uma
+possibilidade é que, devido à falta de liquidez, caia o nível de atividade. Mas
+como isso afetaria o conflito? Se a falta de mercados e de emprego reduzir as
+parcelas desejadas de renda, à la curva de Phillips, isso pode diminuir a inflação;
+por outro lado, a menor disponibilidade de bens pode em si mesma atuar no
+sentido de aguçar o conflito, fazendo, portanto, subir ainda mais a taxa de
+inflação. Os conflitistas parecem estar preparados para qualquer resultado, mas
+isso quer apenas dizer que sua hipótese não tem o poder preditivo que seria de
+desejar.
+
+Esse exemplo serve, entretanto, para ilustrar que a hipótese do conflito
+distributivo não se confunde com a do hiato inflacionário keynesiano. Nesse
+caso, os preços sobem devido a um excesso de demanda sobre a oferta de pleno
+emprego. No caso do conflito, os preços sobem com ou sem excesso de
+demanda, desde que a soma das parcelas desejadas de renda seja superior à
+unidade.
+
+
+
+4.6. História e futuro
+
+
+
+Do que foi dito, creio poder concluir que a força da hipótese do conflito
+distributivo não reside na solidez dos desenvolvimentos teóricos até agora
+disponíveis, mas na sua aderência ao senso comum e na evidência – para mim
+indisputável – de que boa parte das dificuldades do Plano Cruzado derivou-se da
+tentativa de dar a volta por trás do conflito, tentando comprar apoio popular com
+medidas de caráter populista – como o abono e o gatilho salariais, os juros reais
+negativos e o prolongamento do congelamento dos preços – que logo
+demonstraram sua incompatibilidade com os objetivos do programa de
+estabilização.
+
+Outra crítica que, com justeza, também se fará à execução do Plano Cruzado
+refere-se a seu descompromisso com o controle do déficit público e à expansão
+monetária. É certo que, devido à remonetização, o crescimento da base
+monetária logo após o programa não é uma medida adequada do desequilíbrio
+financeiro do setor público, mas o fato de que conceitos mais amplos de liquidez
+também cresceram a taxas bastante elevadas deixa poucas dúvidas sobre a
+extensão daquele desequilíbrio.20
+
+Antes do fracasso do Plano Cruzado, em suas versões mais polêmicas o
+inercialismo negava importância à necessidade de arrecadação do imposto
+inflacionário para explicar a expansão monetária, bem como ao conflito
+distributivo para explicar a inércia inflacionária. A inflação persistiria apenas
+devido às “imperfeições” no processo de determinação de preços e salários,
+causadas pela falta de coordenação nos processos de decisão de preços e pela
+existência de contratos salariais superpostos. Tudo o de que se necessitava para
+criar um estado de “inflação zero” seria uma supressão dessas imperfeições de
+mercado, através do uso de técnicas adequadas de desindexação. O imposto
+inflacionário seria apenas uma dádiva de uma economia indexada a um governo
+benevolente, que não teria dificuldades seja de obter da sociedade outro tipo de
+imposto seja de cortar despesas quando se operasse a desindexação. De todos os
+modos, esse problema não tinha muita prioridade, pois a remonetização da
+economia, que se obteria com a estabilização, mais do que compensaria a perda
+do imposto inflacionário nos primeiros meses do programa. Quanto ao conflito
+distributivo, como vimos acima, poderia ter estado na origem da inflação, mas já
+tinha sido resolvido ao longo dela mesma. Tão logo os assalariados se dessem
+conta de que a inflação acabara, seriam os primeiros a sair em defesa do
+programa de estabilização.
+
+Antecipo a possibilidade de no futuro os historiadores registrarem no mínimo
+como enigmático o fato de o inercialismo ter ganhado proeminência acadêmica e
+arrastre político justamente quando os pressupostos em que se baseava estavam
+sendo minados pela realidade, como passo a arguir. O grande trunfo empírico do
+inercialismo sempre foram os patamares inflacionários traçados pelos índices de
+preços no período 1968/85, todos eles aparentemente explicáveis pela interação
+entre os choques externos ou agrícolas e as mudanças nos regimes de indexação
+no país. Entretanto, como notei em Bacha (1986), é dúbia a evidência a favor de
+tais patamares a partir de 1981: pelo menos os índices de preços ao consumidor
+mostram uma aceleração contínua da taxa de inflação desde então até as
+vésperas do Plano Cruzado.
+
+Essa aceleração é consistente com um aguçamento dos conflitos distributivos,
+causado pela crise da dívida externa, bem como por um ativismo sindical
+crescente que buscava aumentar o grau de indexação dos salários no país num
+contexto de progressiva abertura política do regime militar.
+
+A aceleração inflacionária contínua a partir do início da década de 1980 também
+é consistente com o impacto que teve a crise da dívida externa sobre as
+necessidades de financiamento interno do governo, numa época em que – devido
+à inovação financeira e ao próprio aumento da taxa de inflação – estava
+minguando a relação entre a base monetária e o PIB. Ou seja, quando mais o
+governo passou a precisar do imposto inflacionário, menos ele se tornou
+disponível.
+
+Se essas conjeturas estiverem corretas, segue-se que o inercialismo terá tido seu
+momento de glória justamente quando a inflação brasileira já deixara de ser
+inercial, para assumir características aceleracionistas, as quais poderiam ser
+explicadas tanto em termos monetaristas quanto conflitistas, mas não em termos
+estritamente inerciais – pois o inercialismo não comporta nem uma indexação
+endógena crescente nem uma necessidade, por parte do governo, de um imposto
+inflacionário maior do que aquele gerado pela inércia inflacionária.
+
+A evidência acumulada com o Cruzado-II e com a fase de flexibilização do
+Plano Bresser parece sugerir que teremos agora entrado num regime que já não é
+mais de mera aceleração inflacionária, mas sim de hiperinflação reprimida.21 A
+hiperinflação decorreria tanto de a necessidade de arrecadação do imposto
+inflacionário pelo governo estar tendendo a ultrapassar o valor máximo possível
+quanto de o grau de indexação de salários e preços administrados estar tendendo
+à perfeição. Nesse contexto, o que os sucessivos “choques heterodoxos” fazem é
+produzir súbitas remonetizações, que substituem temporariamente o imposto
+inflacionário, bem como paradas temporárias no regime de indexação crescente.
+Num processo que Robert Lucas nos ensinou a apreciar, na medida em que os
+sucessivos choques oferecem cada vez menos “surpresas”, menos eficácia
+passam a ter para deter a aceleração inflacionária.
+
+Concluo também sem grandes surpresas. Após termos tentado suprimir o
+conflito distributivo pela via autoritária em 1964 e apaziguá-lo pela via populista
+em 1986, parece ter chegado a hora de tentarmos superá-lo pela via de um
+acordo social. Como viabilizar esse acordo institucionalmente, envolvendo os
+partidos políticos e as organizações de classe, é algo que teremos de aprender
+fazendo, já que é limitada a experiência brasileira nessa área. Controlar o acesso
+do governo ao Banco Central deverá ser uma importante parte desse acordo.
+Também teremos aprendido que combater o déficit sem desindexar só produz
+recessão, enquanto que desindexar sem combater o déficit só produz
+desorganização. Se mantivermos um olho no déficit e outro no conflito
+distributivo, sugiro que também iremos concluir que as políticas de estabilização
+mais eficazes são aquelas que envolvem reduções dos gastos improdutivos do
+governo e o refinanciamento da dívida externa – pois ao mesmo tempo
+diminuem o tamanho do déficit a ser financiado internamente e aumentam o
+tamanho do bolo a ser distribuído, reduzindo, desse modo, o conflito
+distributivo.
+
+O monetarismo nos ensinou a necessidade de zerar o déficit operacional, para
+controlar a expansão monetária e domar as expectativas inflacionárias. O
+inercialismo nos ensinou a necessidade de desindexar salários e juros e de
+coordenar as decisões de preços para evitar a recessão. O conflitismo nos
+ensinou a necessidade de promover um acordo social prévio para evitar que a
+política de estabilização caia presa seja do autoritarismo seja do populismo.
+Futuros programas de estabilização no país deverão saber incorporar as lições
+dessas três perspectivas, pois será somente assim que poderemos almejar
+compatibilizar a estabilização com o crescimento e a democracia.
+
+
+
+Referências
+
+
+
+BACHA, Edmar L. A inércia e o conflito: o Plano Cruzado e seus desafios. Rio
+de Janeiro: Departamento de Economia, PUC/RJ, Texto para Discussão, 1986, p.
+131.
+
+BARBOSA, Fernando de Holanda e PEREIRA, Pedro L. Valls. O insucesso do
+Plano Cruzado: a evidência empírica da inflação 100% inercial para o Brasil.
+Rio de Janeiro: Escola de Pós-Graduação em Economia, Fundação Getulio
+Vargas, Texto para Discussão, 1987, p. 98.
+
+BULHÕES, Octavio Gouvêa de. “Consenso mal aproveitado”. Conjuntura
+Econômica 38(12), 1984, pp. 111-118.
+
+FUNDO MONETÁRIO INTERNACIONAL. Theoretical aspects of the design
+of fund-supported adjustment programs. Washington: Research Department of
+the International Monetary Fund, 1987.
+MODIANO, Eduardo. “Salários, preços e câmbio: os multiplicadores dos
+choques numa economia indexada”. Pesquisa e Planejamento Econômico. Rio
+de Janeiro, 15(1), abr. 1985, pp.1-31.
+
+SIMONSEN, Mário Henrique e CYSNE, Rubens Penha. Contabilidade nominal
+X contabilidade real. 2.ª ed. Rio de Janeiro: Simposium Consultoria e Serviços
+Técnicos Ltda, 1987. (Módulos de Macroeconomia Aplicada, v. 3, Contas
+Nacionais.)
+
+SOLOW, Robert M. “Alternative approaches to macroeconomic theory: a partial
+view”. Canadian Journal of Economics, 12 (3), ago. 1979, pp. 339-54.
+
+TANZI, V.; Blejer, M.; TEIJÊIRO, M. “Inflation and the measurement of fiscal
+deficits”. IMF Staff Papers, 34 (4), dez. 1987.
+
+TOBIN, James. “Diagnosing inflation: a taxonomy”. In: FLANDERS, M. June;
+RAZIN, Assaf (orgs). Development in an inflationary world. Nova York:
+Academic Press, 1981, pp. 19-30.
+6. O fisco e a inflação: uma interpretação do caso brasileiro
+
+52
+
+
+
+6.1. Introdução
+
+
+
+Por que o Brasil teve uma inflação superior a 1.000% ao ano em 1992 se o
+déficit do setor público não foi tão grande assim (de apenas 1,7% do PIB, no
+conceito operacional)? Comparações com a Itália ou com a Grécia, por exemplo,
+são inevitáveis, pois nesses países o déficit fiscal tem sido superior a 10% do
+PIB, mas a inflação anual é de apenas um dígito.
+
+Em comunicação pessoal, Michael Bruno – possivelmente o mais conhecido
+especialista mundial em políticas de estabilização em países em
+desenvolvimento – manifestou-me sua impressão de que entre os países com
+inflação crônica, o Brasil seria o único cuja inflação não aparentava ser
+puramente fiscal.
+
+Mas serão esses indícios do caráter não fiscal da inflação brasileira realmente
+válidos? Acredito que não e vou sustentar a tese oposta com base em dois
+conceitos complementares que, embora emergentes na literatura, não parecem
+ainda ter recebido um tratamento analítico adequado: o déficit orçamentário
+potencial com inflação zero e a erosão pela inflação das despesas orçamentárias
+do governo.
+
+
+
+6.2. Análises “fundamentalistas”
+
+
+
+É conveniente começar por uma breve análise crítica das três explicações mais
+comumente encontradas na literatura para sugerir o caráter fiscal da inflação
+brasileira: a perda de confiança na moeda nacional; a antecipação inflacionária
+da monetização futura da dívida interna; e o financiamento com quase-moeda do
+elevado déficit nominal do setor público.
+
+A perda da confiança na moeda nacional é um fenômeno patente nas estatísticas
+de evolução da retenção da moeda como proporção do PIB. Logo após o pós-
+guerra, a relação entre M1 (papel-moeda em poder do público mais depósitos
+bancários à vista) e PIB era da ordem de 25%; há vinte anos, ainda se situava em
+cerca de 15%; hoje em dia, tende para um décimo desse último valor.
+
+Quanto menor a retenção de moeda como proporção do PIB, maior tem de ser a
+inflação para o financiamento, por via da expansão monetária, de um dado
+déficit público (também medido como proporção do PIB). Mas a própria
+inflação causa uma diminuição da retenção voluntária de encaixes reais, de
+modo que um mecanismo causal perverso pode ser posto em marcha: a partir de
+certo nível, a emissão monetária necessária para financiar o déficit público causa
+uma aceleração temporária da inflação. Essa gera menor retenção de moeda que,
+por sua vez, força uma taxa maior de inflação para financiar o mesmo déficit de
+antes.
+
+Trata-se do fenômeno dos assim chamados dois equilíbrios, ou da armadilha
+inflacionária.53 O equilíbrio dual, fruto da perda da confiança na moeda, implica
+que uma economia pode estar parada num equilíbrio de alta inflação quando,
+com o mesmo déficit fiscal, poderia desfrutar uma taxa mais baixa de inflação.54
+
+O Gráfico 1 ilustra esse fenômeno. No eixo vertical, medem-se o déficit fiscal, d,
+e a arrecadação do imposto inflacionário, m; ambos como proporção do PIB. No
+eixo horizontal, mede-se a taxa de inflação, p. Supõem-se condições de
+equilíbrio estacionário, em que o produto é constante e há igualdade entre as
+taxas esperada e observada de inflação.55 A curva do imposto inflacionário, m
+(também conhecida por curva de Lafer da inflação), é traçada supondo-se uma
+função de demanda de moeda à la Cagan.
+Um dado déficit fiscal como proporção do PIB, d, pode ser financiado, por via
+do imposto inflacionário, seja com uma inflação baixa, p’, seja com uma
+inflação alta, p”.
+
+Nessa visão do problema, países em que a confiança na moeda não se teria
+perdido, como Itália ou Grécia, estariam em p’, enquanto o Brasil estaria em p”
+– do “lado errado” da curva de Lafer. Fosse essa explicação verdadeira,
+bastariam medidas que restabelecessem a confiança na moeda – como, por
+exemplo, a introdução de uma paridade fixa com o dólar num regime cambial de
+conversibilidade plena (a chamada dolarização) – para trazer a economia de p”
+para p’ sem necessidade de qualquer mudança no regime fiscal.56
+
+Um dos problemas dessa análise é que ela desconsidera que boa parte do déficit
+é financiada não por emissão de moeda, mas pela colocação de títulos. No
+contexto atemporal em que a análise da armadilha inflacionária se coloca, um
+déficit integralmente financiado pela colocação de títulos não deveria ter
+qualquer impacto inflacionário. Esse problema foi resolvido no artigo clássico de
+Sargent e Wallace (1981), em que a questão do financiamento do déficit do
+governo é posta num contexto intertemporal. Esses autores supõem que o déficit
+do governo esteja de início sendo integralmente financiado pela colocação de
+títulos, mas também que a dívida interna esteja sendo acumulada num processo
+de bola de neve, o qual deverá, portanto, ser interrompido em algum ponto no
+futuro. Nesse ponto, ocorreria uma súbita monetização da dívida interna. Caso as
+expectativas inflacionárias que entram na demanda de moeda sejam
+estacionárias, o nível de preços permaneceria constante até o dia da
+monetização, quando então daria um salto proporcional à monetização realizada.
+Com expectativas racionais, entretanto, os agentes incorporam em suas decisões
+atuais a monetização futura esperada e, para não sofrer perdas de capital,
+começam desde logo a reduzir sua retenção de moeda. Portanto, há inflação não
+porque a oferta de moeda esteja crescendo, mas porque a demanda de moeda
+decresce ao longo do tempo.
+
+Esse fenômeno é ilustrado no Gráfico 2, em que no eixo vertical se colocam a
+oferta de moeda, M, e o nível de preços, P; e no eixo horizontal se marca o
+tempo. A linha cheia indica o comportamento da oferta de moeda, constante ao
+longo do tempo, exceto em t1, quando há a monetização súbita da dívida interna
+e a oferta de moeda muda de patamar. Se as expectativas fossem estacionárias,
+os preços seguiriam a mesma trajetória da moeda. Entretanto, com expectativas
+racionais ou, mais precisamente, com previsão perfeita, os agentes antecipam a
+monetização futura e fogem da moeda desde o primeiro momento. Por isso, os
+preços sobem continuamente entre t0 e t1, de acordo com a linha pontilhada,
+mesmo com a oferta de moeda constante. Resolve-se, assim, de maneira
+brilhante, o problema de explicar por que há inflação se não há concomitante
+expansão monetária.
+
+Esse tipo de análise parece ter tido considerável influência nas propostas de
+choque monetário veiculadas no país. Note-se no Gráfico 2 que após a
+monetização o déficit do governo é igual a zero, pois por hipótese ele se devia
+apenas à necessidade de pagar juros sobre a dívida interna, necessidade essa que
+desaparece com a monetização súbita. Nessas circunstâncias de expectativas
+racionais, toda a inflação devida à monetização já teria ocorrido e, portanto, após
+o governo libertar-se da dívida, com o déficit primário zerado, não haveria mais
+razão para que a inflação prosseguisse.
+O terceiro enfoque fundamentalista também destaca a problemática do
+financiamento do déficit por via da dívida, mas a ênfase agora é dada ao fato de
+essa dívida ser na verdade uma quase-moeda que paga juros. Assim, alega-se
+com alguma frequência que o déficit fiscal brasileiro é pequeno em termos
+operacionais, mas muito grande em termos nominais, acima de 40% do PIB em
+1992. Esse déficit é quase que totalmente financiado pela emissão de dívida
+interna de curtíssimo prazo, com liquidez diária garantida pelo Banco Central,
+dívida essa que funciona como se fosse moeda.57 A necessidade de financiar,
+com uma quase-moeda que paga juros, um déficit tão elevado assim é que
+explicaria a superinflação brasileira. A essa observação contrapõe-se o
+argumento de que o déficit nominal é elevado apenas porque a taxa nominal de
+juros sobre a quase-moeda tem de acompanhar a superinflação que existe no
+país. Se a inflação baixasse, os juros também baixariam e o déficit nominal
+tenderia a se igualar ao déficit operacional.58 A tréplica vem com a indagação:
+como poderia a inflação baixar se um déficit tão elevado está permanentemente
+realimentando a oferta de quase-moeda? A par de uma reforma monetária crível
+que eliminasse a remuneração da moeda, uma resposta a esse conundrum
+somente poderia ser dada por um ganho de credibilidade – conseguido, por
+exemplo, através de um overkill fiscal (conjugado a uma “privatização
+selvagem”) – que, convencendo os agentes econômicos da seriedade do governo,
+permitisse uma rápida baixa da taxa interna de juros.59
+
+As conclusões das interpretações fundamentalistas da inflação brasileira são,
+portanto, paradoxais, pois uma termina favorecendo a dolarização, enquanto que
+as outras duas favorecem ou um calote na dívida interna ou um overkill fiscal
+somente para afetar as expectativas (pois o problema fiscal estaria apenas na
+cabeça das pessoas, não na realidade dos fatos). Minha conclusão é que novas
+rotas precisam ser exploradas para fundamentar uma explicação convincente da
+origem fiscal da inflação brasileira – uma explicação da qual, ao contrário das
+teses supostamente fundamentalistas antes descritas, se pudesse concluir ser de
+fato imperativa a mudança do regime fiscal como condição para se obter uma
+duradoura estabilidade de preços.60
+
+
+
+6.3. Do déficit reprimido ao déficit potencial
+Já há algum tempo, na América Latina, se tem trabalhado com o conceito de
+déficit reprimido para definir aquela situação em que se obtém um equilíbrio
+apenas temporário das contas do governo, pela compressão de despesas
+sabidamente necessárias dentro de um dado regime fiscal. Exemplo dessa
+repressão é uma redução temporária da folha de salários do governo, obtida por
+uma compressão dos salários do funcionalismo, em vez de por uma eliminação
+da “gordura” no emprego público. Redução insustentável de salários é uma
+repressão do déficit. Redução sustentável da gordura no emprego seria uma
+supressão do déficit.
+
+A mera repressão do déficit não deveria ter efeitos anti-inflacionários
+significativos, pois os agentes econômicos entenderiam ser ela temporária,
+antecipando, assim, o retorno do déficit e da inflação. Nessas condições,
+fugiriam da moeda desde hoje, fazendo, como no exemplo anterior, com que a
+inflação prosseguisse, apesar da redução temporária do déficit.
+
+Essa análise reforça as considerações que se seguem, nas quais se supõe que a
+demanda de moeda dependa apenas da inflação contemporânea, e não daquela
+esperada para o futuro. Trata-se, entretanto, de aproveitar a diferenciação entre
+déficit reprimido e déficit suprimido para explorar o conceito implícito de déficit
+potencial, aquele que ocorreria caso não houvesse repressão fiscal.
+
+Uma primeira tentativa de mensurar o déficit potencial no caso brasileiro é feita
+na recente dissertação de mestrado de Eduardo Refinetti Guardia (1992) para a
+Universidade de Campinas. Nessa dissertação, o déficit potencial do governo
+federal é entendido como aquele inserido na lei orçamentária aprovada pelo
+Congresso Nacional. Guardia constata que, embora supostamente equilibrado no
+conjunto de suas contas, o orçamento da República embute um déficit potencial
+considerável em sua parte propriamente fiscal (no conceito operacional), devido
+tanto a uma subestimação das despesas como a uma superestimação das receitas.
+Segundo Guardia, os valores do déficit potencial assim definido são
+extraordinariamente elevados. Em sua análise dos orçamentos dos últimos anos,
+ele encontra valores para as despesas fiscais autorizadas da ordem de US$ 100
+bilhões, contra receitas fiscais realizadas pouco superiores a US$ 60 bilhões.
+Trata-se de déficits potenciais de aproximadamente US$ 40 bilhões, cerca de
+10% do PIB, somente para o governo federal. Ainda que análises posteriores
+possam indicar que esses números sejam exagerados, eles abrem a porta para
+uma nova compreensão fiscal de por que a inflação no Brasil é tão elevada.
+
+Igualmente importante para essa nova compreensão é o fato de que, após a
+execução orçamentária, os déficits efetivamente observados são apenas uma
+pequena fração dos valores orçados. O que acontece no meio do caminho é uma
+história bem conhecida em Brasília, mas praticamente inexplorada na literatura
+econômica. Trata-se do uso da inflação para reprimir as despesas orçadas.
+
+A inflação ajuda de duas formas na redução do déficit orçamentário aos valores
+efetivamente observados no fim do ano fiscal. Em primeiro lugar, o orçamento
+embute uma previsão inflacionária bem menor do que a inflação efetivamente
+observada. Isso reduz o valor real das despesas executadas, mesmo sem controle
+do caixa. Já as receitas, por estarem indexadas, pouco sofrem com a inflação
+maior do que a orçada. Em segundo lugar, através do controle do caixa, o
+Ministério da Fazenda adia a liberação das verbas orçamentárias para o fim do
+ano ou mesmo para os restos a pagar no ano seguinte, desse modo fazendo com
+que o valor real dessas despesas seja adicionalmente reduzido pela inflação.
+Todo o processo é eventualmente legalizado por um decreto de
+contingenciamento ou uma lei de reprogramação orçamentária.
+
+Como o déficit potencial inicial é aparentemente muito grande e as despesas são
+pelo menos parcialmente indexadas, é preciso uma inflação muito elevada
+(certamente mais elevada do que aquela embutida na proposta orçamentária)
+para viabilizar, por via da repressão inflacionária, o relativo equilíbrio nas contas
+públicas que se observa nos dados brasileiros.
+
+Essa hipótese é corroborada em texto recente de Don Patinkin (1993), que, ao
+criticar tentativas de explicar a inflação no contexto de um jogo entre o governo
+e o público, sugere que se se deseja analisar a inflação do ponto de vista da
+teoria dos jogos, então a formulação mais plausível seria a de um jogo entre um
+ministro da Fazenda economizador e os demais ministérios gastadores. Por sua
+coincidência com o tema básico deste texto, vale a pena fazer uma longa citação
+do trecho relevante de Patinkin (1993:115-6), numa tradução livre:
+
+
+
+A inflação pode ser vista (e devo admitir que essa visão é muito influenciada por
+muitos anos de observação da cena de Israel) como a imposição de um imposto
+pelo ministro da Fazenda aos demais ministros do governo. Especificamente,
+numa situação na qual – por se tratar de um governo de coalizão – o ministro da
+Fazenda não tem o poder de forçar os ministérios a fazer reduções adequadas nas
+suas respectivas demandas orçamentárias. Confrontando, assim, um orçamento
+global cujas despesas planejadas excedem amplamente as receitas esperadas, ele
+poderá aparentar aceitar essas demandas e, então, financiar o déficit imprimindo
+dinheiro e deixando a inflação resultante produzir a necessária redução nas
+despesas governamentais reais. Por implicar uma redução linear, esse pode ser
+de fato o caminho de menor resistência para o ministro da Fazenda.
+
+Isso não significa que os demais ministros sofram de ilusão monetária. Ao
+contrário, eles podem ser vistos como estando num “dilema do prisioneiro”, em
+que, por recear que sua posição relativa aos demais ministérios possa piorar,
+cada um insiste num orçamento nominal exagerado, cuja soma gera uma inflação
+que faz perigar a sobrevivência do governo de coalizão, tornando a situação pior
+para todos eles. Um corolário dessa “teoria da coalizão inflacionária” é que
+quanto mais fraca a coalizão, maior a taxa de inflação.
+
+
+
+6.4. Ilustração gráfica
+
+
+
+Essa hipótese fiscal alternativa para a inflação brasileira é ilustrada no Gráfico 3.
+No eixo vertical, medem-se o déficit, d, e a arrecadação do imposto
+inflacionário, m; no horizontal, a taxa de inflação, p. Supõem-se novamente
+condições de estado estacionário, com o produto constante e igualdade entre a
+taxa de inflação observada e a esperada. Supõe-se ainda que o déficit seja
+integralmente financiado por expansão monetária.61
+
+A curva m do imposto inflacionário é a mesma do Gráfico 1. A novidade é a
+curva negativamente inclinada, d, que relaciona, numa aproximação linear, o
+déficit fiscal à inflação. Com inflação zero, o déficit assumiria seu valor
+potencial, d*. À medida que a inflação cresce, o déficit declina por meio da
+redução do valor real das despesas, que são orçadas em valores nominais. Essas
+despesas vão tendo seu valor real tão mais erodido quanto maior for a inflação
+(em relação àquela prevista no orçamento) e quanto mais rígido for o controle na
+boca do caixa. Essa erosão não ocorre no lado das receitas (ou ocorre em muito
+menor medida do que no lado das despesas) porque os impostos, por meio da
+indexação, estão razoavelmente bem defendidos da inflação.62
+
+Essa relação negativa entre déficit e inflação contrapõe-se ao conhecido efeito
+Olivera-Tanzi, segundo o qual seria positiva a relação entre o déficit e a inflação.
+O efeito Olivera-Tanzi, vê-se, vale apenas para países onde as despesas públicas
+são indexadas, mas os impostos não o são, exatamente o oposto ao caso
+brasileiro.
+
+O equilíbrio entre o déficit fiscal (que é igual à oferta-fluxo de moeda) e o
+imposto inflacionário (que é igual à demanda-fluxo de moeda) se dá com o
+déficit d# e a inflação p#, no Gráfico 3. De forma condizente com os resultados
+empíricos disponíveis, supõe-se que o equilíbrio inflacionário brasileiro se dê no
+“lado errado” da curva de Lafer.
+A estabilidade do equilíbrio depende de supostos adicionais sobre a dinâmica da
+inflação. No Apêndice A, supondo-se expectativas adaptativas, argui-se que o
+equilíbrio será estável desde que, em termos do Gráfico 3, a curva d seja mais
+inclinada do que a curva m, implicando que o efeito redutor da inflação sobre o
+déficit é mais forte do que sobre o imposto inflacionário. Trata-se de uma
+hipótese plausível nas condições brasileiras, em que a retenção de moeda já
+atingiu valores bastante reduzidos. Nessas condições, podem-se derivar algumas
+conclusões relevantes de política econômica.
+
+
+
+6.5. Alguns resultados
+
+
+
+Em primeiro lugar, fica claro por que não basta um truque cambial que
+restabeleça a confiança na moeda para reduzir a inflação de p# para, por
+exemplo, p’, no Gráfico 3. Pois, com a taxa de inflação em p’, o déficit fiscal
+seria muito maior que o imposto inflacionário e, portanto, a inflação se
+aceleraria, a partir de p’, de volta para p#.
+
+Como, então, reduzir a inflação para p’? Caso se mantenha inalterada a repressão
+inflacionária das despesas, será preciso diminuir o déficit potencial de d* para
+d**, no Gráfico 3. Entretanto, de um ponto de vista político, será provavelmente
+muito difícil manter a repressão das despesas ao se negociar um corte no déficit
+potencial. O preço a pagar pelo corte do déficit potencial possivelmente será o de
+as despesas orçadas passarem a ser mais bem defendidas contra a inflação
+(devendo notar-se que a indexação é apenas um dos possíveis mecanismos para
+essa defesa, embora seja seguramente o mais perigoso deles). Sem a repressão
+inflacionária das despesas, entretanto, o déficit para de cair com a elevação da
+inflação – a linha d se transforma numa reta horizontal. Portanto, para viabilizar
+uma taxa de inflação igual a p’ no Gráfico 3, será preciso cortar o déficit
+potencial mais profundamente para d#, e não apenas para d**.
+
+A necessidade desse corte profundo – que, junto com a desrepressão das
+despesas, caracterizaria uma mudança revolucionária do regime fiscal brasileiro
+– deriva-se do fato de que o processo inflacionário antes descrito tende a gerar
+uma inflação cada vez maior ao longo do tempo. Isso por não ser crível que as
+despesas permaneçam relativamente desindexadas, quando as receitas estão
+razoavelmente bem indexadas. O mais provável é que, na falta de uma mudança
+convincente do regime fiscal, os agentes beneficiários da despesa pública tratem
+de defender o valor real de seu quinhão, como, aliás, já o vêm fazendo: os
+congressistas tentando proibir o Executivo de fazer contingenciamento
+orçamentário e lançando mão de receita inflacionária para financiar as despesas
+orçadas;63 os funcionários, pensionistas e aposentados tratando de obter
+indexação mensal para seus proventos; os fornecedores e empreiteiros
+praticando sobrepreços em seus faturamentos. Ao longo do tempo, a curva d vai
+rotando para o alto (fazendo eixo em d*), na medida em que a despesa orçada
+fica cada vez mais indexada. Essa rotação é coerente com a observação de uma
+taxa de inflação progressivamente mais elevada desde meados da década de
+1980, exceto pelas paradas temporárias impostas pelos sucessivos planos de
+estabilização.
+
+Outro ponto refere-se aos cortes necessários para se obter um orçamento realista,
+que possa ser executado com inflação baixa. Para introduzir o tema, suponha-se
+que, depois dos cortes “estruturais”, o governo continue necessitando do mesmo
+imposto inflacionário de antes, mas não mais conte com a repressão inflacionária
+das despesas. Nos termos do Gráfico 3, está-se falando num corte do déficit
+potencial de d* para d#, conjuntamente com a introdução de mecanismos
+institucionais que protejam as despesas orçadas contra a inflação, implicando,
+pois, uma relação horizontal entre o déficit e a inflação. O déficit final, d#, é o
+mesmo que existia antes dos cortes; mas agora a inflação de equilíbrio será p’, e
+não mais p#.64 Como o déficit é o mesmo e as receitas estão indexadas, isso
+quer dizer que as despesas também terão o mesmo valor real de antes: no
+agregado, ninguém perde. A dificuldade da negociação política reside,
+entretanto, em que agora os cortes terão de ser para valer, ou seja, eliminando
+permanentemente unidades de despesa e transferindo os ganhos daí advindos
+para as unidades de despesa que permanecerem no governo.
+
+Dito de outro modo, a eliminação de um número significativo de unidades de
+despesa viabiliza o aumento do valor real das dotações orçamentárias das
+unidades remanescentes, ainda que o valor nominal dessas dotações continue
+sendo o mesmo de antes. Um exemplo numérico ajuda a entender esse
+importante ponto. Suponha-se que de início haja duas unidades de despesa, a
+“própria” e a “imprópria”, cada uma das quais com despesas orçadas
+equivalentes a US$ 10, para um total de despesas orçamentárias de US$ 20. As
+receitas fiscais totais são, por hipótese, de apenas US$ 10. O déficit potencial é
+de US$ 10. Entretanto, por causa da superinflação, o valor real das despesas de
+cada unidade é erodido até que se reduza, por exemplo, para US$ 6 em cada uma
+delas (nesse caso, o déficit final seria de US$ 2, financiado pelo imposto
+inflacionário no “lado errado” da curva de Lafer, isto é, à direita do ponto de
+arrecadação máxima do imposto inflacionário).
+
+Ressalta-se, nesse exemplo numérico, uma mensagem básica do enfoque fiscal
+deste capítulo: o governo necessita da inflação mais para reduzir as despesas
+orçadas do que para financiar o déficit remanescente. Isso explica o paradoxo de
+por que uma inflação tão grande é necessária para financiar um déficit tão
+pequeno.
+
+Suponha-se agora que se elimine a unidade de despesa “imprópria” e que o
+governo federal só retenha a unidade de despesa “própria”. Se o déficit final for
+os mesmos US$ 2 e se as receitas não se alterarem, a unidade de despesa
+“própria” poderá realizar despesas de US$ 12, o dobro do que anteriormente de
+fato conseguia realizar. Mantendo-se, entretanto, a dotação orçamentária (e
+efetiva) da unidade “própria” em US$ 10, o governo poderia abdicar
+integralmente do uso do imposto inflacionário.
+
+Observa-se, nesse exemplo, como se integram, no novo enfoque fiscal, dois
+polos até então dicotômicos de explicação da inflação brasileira: o conflito
+distributivo e o déficit orçamentário.65 A diferença é que, no enfoque deste
+capítulo, o conflito se manifesta não na disputa entre salários e lucros por uma
+fatia do produto, mas na disputa entre os grupos de interesse por uma fatia do
+orçamento. A soma das fatias desejadas é maior do que as receitas fiscais
+disponíveis. A inflação resolve o conflito de duas maneiras: diminuindo o
+tamanho das fatias efetivamente distribuídas e gerando o imposto inflacionário
+necessário para cobrir a diferença remanescente entre o gasto efetivo e a
+arrecadação de impostos.66
+
+A conclusão é que a resolução, sem uso da inflação, do conflito fiscal brasileiro
+envolve decisões políticas fundamentais sobre a composição do gasto público: o
+governo federal tem de transferir para outras esferas governamentais ou para o
+setor privado parte de suas exageradas atribuições atuais, para que possa
+especializar-se com vantagem nas funções que de fato lhe cabem, num novo
+modelo de desenvolvimento com inflação sob controle.
+            Apêndice A: Estabilidade do equilíbrio inflacionário
+
+
+
+Este apêndice desenvolve o modelo de inflação do texto para estudar a
+estabilidade do equilíbrio inflacionário.
+
+Numa aproximação linear, suponha que a relação entre o déficit fiscal como
+proporção do PIB, d, e a taxa de inflação, p, seja dada por:
+
+
+
+
+                    d = d0 – rp d0>0, r>0 (1)
+em que d0 é o déficit com inflação zero e r mede o impacto da inflação sobre o
+déficit. O déficit é integralmente financiado por expansão monetária, m. Para
+obter uma expressão para m, considere a seguinte função de demanda por
+moeda:
+
+
+
+
+                 M = PY.f(pe)f”<0              (2)
+em que: M = demanda nominal por moeda, P = nível de preços, Y = nível do
+produto (suposto constante), PY = PIB nominal, f = função de demanda real por
+moeda, pe = taxa esperada de inflação, f” = derivada de f em relação a pe.
+
+Tomando a derivada de (2) em relação ao tempo e dividindo o resultado por PY,
+obtém-se a seguinte expressão para a expansão monetária:
+
+
+
+
+           m = M’/PY = f”pe’ + f.p(3)
+em que o sobrescrito (’) indica a derivada da respectiva variável em relação ao
+tempo. A restrição orçamentária do governo requer que:
+
+
+
+
+                                 d = m(4)
+Substituindo (3) e (1) em (4), obtém-se a seguinte expressão para a trajetória da
+taxa de inflação:
+
+
+
+
+         p = d0/(f+r) – [f”/(f+r)].pe’ (5)
+Em equilíbrio estacionário, com pe’ = 0, vem:
+
+
+
+
+                          p = d0/(f+r)(6)
+A inflação de equilíbrio é diretamente proporcional ao déficit potencial (isto é,
+àquele com inflação zero) e inversamente proporcional à soma da demanda por
+moeda, f, com a sensibilidade do déficit em relação à inflação, r. Para estudar a
+estabilidade desse equilíbrio (que pode ser múltiplo, tendo em vista a
+dependência negativa de f em relação a pe), admita a seguinte regra de formação
+de expectativas:
+
+
+
+
+                 pe’ = a(p–pe) a>0              (7)
+Ou seja, a expectativa de inflação se acelera quando a inflação observada é
+maior do que a inflação esperada e se desacelera no caso oposto.
+
+Substituindo em (7) o valor de p dado em (5) e simplificando, vem:
+
+
+
+
+pe’[1 + af”/(f+r)] = a[d0/(f+r) – pe] (8)
+Claramente, um equilíbrio será localmente estável – pe’ convergindo para zero
+em (8), pe convergindo para p em (7) e p convergindo para d0/(f+r) em (5) –
+desde que, no entorno desse equilíbrio:
+
+
+
+
+      1 + af”/(f+r) > 0, sendo f” < 0 (9)
+Tomando o valor absoluto de f” e rearranjando termos, vem:
+
+
+
+
+                      r>f((a|f”|/f)–1) (10)
+Uma interpretação heurística da condição (10) é a seguinte: assimilando o termo
+“a” ao valor da taxa de inflação de equilíbrio, a expressão a|f”|/f dá o valor
+absoluto da elasticidade do imposto inflacionário em relação à inflação. No
+equilíbrio que interessa ao texto – do lado “errado” da curva de Lafer – esse
+valor é maior do que a unidade. Isso significa que, nesse equilíbrio, o lado
+direito de (10) – que pode ser assimilado ao valor da derivada do imposto
+inflacionário em relação à inflação – é positivo. Nesse caso, a condição (10)
+pode ser interpretada como requerendo, para que esse equilíbrio seja estável, que
+a derivada do déficit fiscal em relação à inflação, r, seja, em valor absoluto,
+maior do que a derivada do imposto inflacionário em relação à inflação.
+
+
+
+                Apêndice B: Inflação e moeda remunerada67
+
+
+
+Este apêndice desenvolve o modelo mais simples possível de uma situação em
+que a inflação “descola” do déficit primário do governo, sendo função
+exclusivamente das expectativas inflacionárias.
+
+Suponha que a quantidade de moeda possa ser dividida em duas parcelas. Uma
+parcela, h, é de moeda remunerada e paga uma taxa de juros positiva igual a i.
+Outra parcela, 1-h, é de moeda não remunerada e paga uma taxa de juros igual a
+zero. Para simplificar a análise, suponha que a demanda por esse agregado
+monetário, B, seja dada por:
+
+
+
+
+                            B = kP k>0       (1)
+em que B é a demanda nominal pela soma de moeda remunerada com moeda
+não remunerada, k é uma constante e P é o nível de preços. Supõe-se o produto
+real constante e igual à unidade.
+
+A restrição orçamentária do governo satisfaz a:
+
+
+
+
+                         B’ = G + ihB (2)
+em que B’ é a derivada em relação ao tempo do agregado monetário, G é o
+déficit primário nominal e hB é a parcela da moeda que é remunerada à taxa i.
+Admitindo que i=pe, ou seja, que a taxa de juros do overnight seja igual à taxa
+esperada de inflação, vem, de (1) e (2):
+
+
+
+
+               B’/B = p = g/k + h.pe(3)
+em que p = P’/P é a taxa de inflação e g = G/P. A equação (3) estabelece um
+vínculo entre a inflação observada e a inflação esperada, cuja força varia
+diretamente com a parcela de moeda remunerada no agregado monetário.
+
+Suponha expectativas adaptativas, tais que:
+
+
+
+
+                pe’ = a(pe–p), a>0              (4)
+em que pe’ é a variação no tempo da expectativa da inflação, pe.
+
+Substituindo em (4) o valor de p dado em (3), vem:
+
+
+
+
+                pe’ = a(g/k–(1–h)pe) (5)
+Em equilíbrio estacionário, pe’ = 0, logo pe = p por (4), e, por (3):
+
+
+
+
+                           p = g/k(l–h) (6)
+Com k constante, a taxa de inflação de equilíbrio varia diretamente com a
+parcela de moeda remunerada no agregado monetário, h. Num modelo mais
+realista, o valor de k deveria aumentar quando h aumenta. Se, entretanto, essa
+variação for menos do que proporcional, mantém-se o resultado de que a
+inflação cresce com a parcela de moeda remunerada no agregado monetário.
+
+Suponha, ademais, que a partir de uma situação de equilíbrio estacionário ocorra
+uma elevação exógena da inflação esperada. Então, de (5), a inflação esperada
+voltará para o equilíbrio anterior segundo a expressão:
+
+
+
+
+                  dpe’ /dpe = –a(l–h) (7)
+O valor dessa derivada pode ser muito baixo, se os valores de h estiverem
+próximos da unidade. Ou seja, a existência de moeda remunerada reduz o ritmo
+em que a inflação converge para seu equilíbrio estacionário.
+
+Finalmente, admita que o governo elimine o déficit primário, fazendo g = 0, em
+condições em que toda a moeda é remunerada, ou h = 1. Em (6), verifica-se que
+a taxa de inflação é indeterminada. Mais precisamente, nesse caso, vê-se em (3)
+que p = pe, ou seja, a inflação será puramente de expectativas e, portanto, igual a
+um arbitrário valor inicial.
+
+Isso, entretanto, não significa que a mera eliminação da moeda remunerada
+resolva o problema inflacionário, pois, a menos que os agentes econômicos
+estejam firmemente convencidos de que o déficit primário tenha desaparecido
+para sempre, essa eliminação poderá simplesmente resultar em que a demanda
+por moeda nacional convirja para zero, com os agentes econômicos tratando de
+substituir todos os seus cruzeiros por dólares, assim fazendo k = 0 na equação
+(3) e levando a inflação a crescer sem limites. Ou seja, no caso brasileiro, a
+existência da moeda remunerada pode muito bem estar impedindo a inflação não
+de ir para zero, mas de ir para infinito!
+
+
+
+Referências
+
+
+
+BACHA, E. “Moeda, inércia e conflito: reflexões sobre políticas de estabilização
+no Brasil”. Pesquisa e Planejamento Econômico 18(1), pp. 1-16, abril, 1988.
+[Reproduzido como capítulo 4 neste livro.]
+
+BRUNO, M. “High inflation and the nominal anchors of an open economy”.
+Cambridge, NBER Working Paper, nº 3518, nov., 1990.
+
+BRUNO, M. e S. Fischer. “The inflationary process: shocks and
+accommodation”. In: BEN-PORATH, Y. (org.). The lsraeli Economy: Maturing
+through Crisis. Cambridge: Harvard University Press, 1986.
+
+_______ .“Seignorage, operating rules, and the high inflation trap”. Quarterly
+Journal of Economics, 105(2), maio, 1989, pp.353-74,
+
+CARNEIRO, D.D. e GARCIA, M. “Capital flows and monetary control under a
+domestic currency substitution regime: the recent Brazilian experience”. Texto
+para Discussão nº. 304. Rio de Janeiro, Departamento de Economia, PUC-Rio,
+agosto, 1993.
+
+GUARDIA, E.R. Orçamento público e política fiscal: aspectos institucionais e a
+experiência recente, 1985-1991. Dissertação de mestrado em economia,
+Universidade de Campinas, nov., 1992.
+
+PATINKIN, D. “Israel’s stabilization program of 1985, or some simple truths of
+monetary theory”. Journal of Economic Perspectives, 7 (2), pp. 103-28,
+primavera, 1993.
+
+SARGENT, T. “The end of four big inflations”. In: Hall, R. (org.) Inflation.
+Chicago: NBER e Chicago University Press, 1983.
+
+SARGENT, T. e WALLACE, N. “Some unpleasant monetarist arithmetic”.
+Quarterly Review, Federal Reserve Bank of Minneapolis, pp. 1-17, 1981.
+
+SIMONSEN, M.H. e CYSNE, R. Macroeconomia. Rio de Janeiro: Ao Livro
+Técnico, 1989.
+Notas
+
+
+
+52 Versão revista de Aula Magna em homenagem ao professor Octávio Gouvêa
+de Bulhões, no concurso para professor titular da cadeira de Macroeconomia da
+Faculdade de Economia e Administração da Universidade Federal do Rio de
+Janeiro (Rio de Janeiro, 28/6/1993). Publicado originalmente em Revista de
+Economia Política 53, 14(1), jan.-mar. 1994, pp. 5-17). Sem implicá-los nos
+resultados, agradeço os comentários e discussões de Pedro Bodin, Guillermo
+Calvo, Dionísio Carneiro, Antônio Delfim Netto, Gustavo Franco, Winston
+Fritsch, Paulo Haddad, Elena Landau, Roberto Macedo, João Paulo de Almeida
+Magalhães, Afonso Celso Pastore, Maria da Conceição Tavares e Rogério
+Werneck.
+
+
+
+53 Ver a respeito Simonsen e Cysne (1989, pp. 418-21) e Bruno e Fischer
+(1990).
+
+
+
+54 A conceituação aqui proposta para a perda de confiança na moeda não é a
+única possível. Outros autores preferem reservar o termo para descrever
+deslocamentos para baixo da função da demanda da moeda em relação à taxa de
+inflação, provocados, por exemplo, por uma dolarização extemporânea. Ver a
+respeito Bruno e Fischer (1986).
+
+
+
+55 A hipótese de estacionariedade permite igualar os conceitos de senhoriagem e
+imposto inflacionário. Veja o Apêndice A para um tratamento explícito da
+dinâmica inflacionária e das condições de convergência para um equilíbrio
+estacionário.
+
+
+
+56 Mudanças no sistema de indexação interna seriam, entretanto, necessárias,
+para evitar uma valorização da moeda nacional devido à permanência de inércia
+inflacionária no setor de bens não comercializáveis da economia. Ver Bruno
+(1990) a respeito do problema das âncoras múltiplas.
+
+
+
+57 Para uma discussão da eficácia da política monetária em condições de quase-
+moeda remunerada, ver Carneiro e Garcia (1993).
+
+
+
+58 Para exposições mais detalhadas desse argumento, ver Simonsen e Cysne
+(1989, pp. 20-38) e Bacha (1988), este último reproduzido como cap. 4 deste
+livro.
+
+
+
+59 Ver o Apêndice B para uma formulação simplificada da hipótese da moeda
+remunerada como causa da inflação.
+
+
+
+60 A mudança do regime fiscal como condição para deter processos
+hiperinflacionários é explorada em Sargent (1983).
+
+
+
+61 Uma extensão desse tipo de análise, para o caso em que o déficit é
+parcialmente financiado pela colocação de títulos, é feita em Bruno e Fischer
+(1990).
+
+
+
+62 Uma fórmula aproximada para a relação entre o déficit e a inflação seria d = d
+0 + r[1 + (b.c)p]/(1 + p), em que d 0 = déficit real incompressível (possivelmente
+um superávit, no caso brasileiro), p = taxa de inflação, r = despesas nominais
+compressíveis, b e c = parâmetros de política compreendidos entre 0 e 1, tais que
+1-b = grau de subestimação da inflação no orçamento e 1-c = grau de
+subestimação da data média de liberação dos recursos no orçamento (por
+exemplo, o orçamento implicitamente supõe que os recursos serão liberados em
+duodécimos iguais ao longo do ano; o controle de caixa faz com que essa
+liberação seja de fato feita muito mais próxima do fim do ano). Com inflação
+igual a zero, o déficit potencial, segundo essa fórmula, seria:d 0 +r. Na medida
+em que a inflação cresce, o déficit cai, tendendo, no limite, para d 0 .
+
+
+
+63 Trata-se da “fonte 188” de receita orçamentária, que consiste na remuneração
+(na verdade, mera correção monetária) dos depósitos do Tesouro no Banco
+Central.
+
+
+
+64 Com a dinâmica da inflação descrita no Apêndice A , é fácil mostrar que, no
+novo regime fiscal, o ponto p’ é um equilíbrio estável, enquanto que o ponto p# é
+um equilíbrio instável. Portanto, depois da mudança do regime fiscal, a inflação
+deveria iniciar uma trajetória declinante que a traria do antigo equilíbrio em p#
+para o novo equilíbrio em p’ . No Apêndice B , argui-se, entretanto, que a
+velocidade de convergência pode ser lenta, dependendo da importância da
+moeda remunerada no agregado monetário total.
+
+
+
+65 Ver Bacha (1988), reproduzido como cap. 5 deste livro.
+
+
+
+66 As observações de Patinkin (1993, pp. 114-6) mostram que a hipótese deste
+texto não é exclusiva do caso brasileiro.
+
+
+
+67 A formulação neste Apêndice é majoritariamente devida a Guillermo Calvo,
+numa resposta a nota minha em que os resultados de equilíbrio aqui contidos são
+derivados supondo igualdade entre as taxas de inflação esperada e observada.
+7. O Plano Real: uma avaliação
+
+68
+
+
+
+7.1. Introdução
+
+
+
+Lançado em 1993, sob condições políticas peculiares, no último ano de um
+governo fraco e dividido e sem receber o apoio do FMI, o Plano Real foi bem-
+sucedido em acabar com a alta inflação brasileira, com um programa de reforma
+monetária de origens genuinamente domésticas.
+
+Este artigo contém uma descrição analítica do programa, iniciando na próxima
+seção com o contexto econômico e político em que ele se desenvolveu. Segue-
+se, na seção 3, uma explicação das três fases do plano e, na seção 4, uma
+descrição detalhada das principais características da reforma monetária: uma
+estabilização súbita preanunciada, precedida por uma fase de indexação plena,
+introduzida sem congelamento de preços, confisco de ativos financeiros ou
+recessão e acompanhada de políticas cambial e monetária flexíveis.
+
+O sucesso inicial do plano foi tão completo que seu estrategista político,
+Fernando Henrique Cardoso, foi eleito presidente em 1994, a tempo de reagir ao
+impacto da crise do balanço de pagamentos mexicano e aos desequilíbrios
+resultantes da introdução do plano, entre demanda e oferta agregadas e entre
+salários e preços – como se descreve na seção 5. Durante 1995, severas
+iniciativas de política monetária e medidas adicionais de desindexação foram
+introduzidas. À custa de uma recessão temporária e uma maior fragilidade
+financeira, essas iniciativas foram bem-sucedidas em manter a inflação numa
+trajetória declinante, como detalhado na seção 6. A seção 7 sumaria as
+conclusões.
+
+
+
+7.2. O contexto econômico e político: 1993
+Quando o ministro das Relações Exteriores Fernando Henrique Cardoso tomou
+posse como ministro da Fazenda, em maio de 1993, a inflação brasileira estava
+em 25% ao mês, numa trajetória de aceleração lenta, mas persistente, superior a
+um ponto percentual ao mês. A nomeação de Fernando Henrique foi muito bem
+recebida, em vista de sua proeminência como político e intelectual, mas a atitude
+da elite econômica brasileira era de total incredulidade quanto à possibilidade da
+implantação de uma política anti-inflacionária efetiva durante o curto mandato
+do presidente Itamar Franco, particularmente devido ao fato de Fernando
+Henrique já ser o quarto ministro da Fazenda nos oito meses iniciais do mandato
+do presidente.
+
+Itamar fora senador por Minas Gerais, conhecido por suas inclinações
+econômicas nacionalistas. Em 1989, tornou-se inesperadamente candidato a
+vice-presidente na campanha presidencial de Fernando Collor. Collor venceu a
+eleição e tomou posse em janeiro de 1990. Em setembro de 1992, depois do
+impeachment de Collor sob acusações de corrupção, Itamar sucedeu o presidente
+eleito, com quem já se havia desentendido. Uma frouxa coalizão de centro-
+esquerda foi então formada no Congresso para apoiar Itamar na complementação
+do mandato de Collor até janeiro de 1995. Um dos partidos da coalizão era o
+PSDB, do qual o senador Fernando Henrique era um dos membros mais
+influentes. Foi nesse contexto que Fernando Henrique, que mantinha boas
+relações pessoais com Itamar, tornou-se ministro das Relações Exteriores. Os
+dois primeiros ministros da Fazenda de Itamar haviam se demitido depois de
+uma série de conflitos com o presidente quanto à gestão da política econômica,
+enquanto o terceiro deixara o cargo sob acusações de manter conexões
+empresariais impróprias.
+
+Fernando Henrique e sua pequena equipe econômica inicial (da qual o autor era
+membro) decidiram, então, adotar uma política econômica bastante conservadora
+e apresentaram o Programa de Ação Imediata, com ênfase total no ajuste das
+contas do setor público, cujos desequilíbrios eram identificados como a causa
+fundamental da inflação crônica no Brasil. A base analítica desse programa
+encontra-se explicitada em trabalho anterior (Bacha, 1994, reproduzido no
+Capítulo 6 deste livro). O argumento básico era que ocorria no Brasil um “efeito
+Olivera-Tanzi às avessas,” ou seja, a inflação ajudava a equilibrar o orçamento,
+já que os impostos eram protegidos contra a inflação, enquanto as despesas eram
+determinadas no orçamento em termos nominais. O efeito Olivera-Tanzi
+sustenta, ao contrário, que o déficit orçamentário aumenta quando a inflação
+sobe, sob o pressuposto de que os gastos do governo são fixos em termos reais,
+enquanto as receitas tributárias não são protegidas contra a inflação.
+
+A inflação, portanto, não só gerava um imposto inflacionário para o Tesouro
+Nacional, ao aumentar a demanda por moeda emitida pelo Banco Central, mas,
+talvez mais importante que isso, ela reduzia o gasto real previsto no orçamento.
+A conclusão do trabalho anterior foi que o controle da inflação pressupunha que
+o governo equilibrasse seu orçamento ex ante, isto é, mostrasse a determinação
+política de cortar do orçamento os excessos de gastos que seriam erodidos pela
+inflação ou então financiados pelo imposto inflacionário.
+
+O progresso obtido nos primeiros meses da gestão de Fernando Henrique foi
+considerável, em termos das metas do programa inicial, que incluíam cortes
+profundos no orçamento federal para 1993, renegociação das dívidas de estados
+e municípios com o governo federal, reorganização do relacionamento contábil
+entre o Banco Central e o Tesouro Nacional e renegociação da dívida externa do
+governo com bancos estrangeiros. A inflação, porém, continuava a subir.
+
+Em fins de agosto, disputas pessoais e políticas levaram às renúncias dos
+presidentes do Banco Central e do BNDES. Embora preocupantes, esses eventos
+tiveram um efeito extremamente positivo, uma vez que propiciaram a ocasião
+para um fortalecimento substancial da equipe econômica inicial de Fernando
+Henrique. Uma característica comum a quase todos os membros da equipe
+econômica então ampliada consistia em eles terem sido colegas no
+Departamento de Economia da PUC-Rio, onde, desde o início dos anos 1980,
+vinham estudando o processo inflacionário do Brasil. Alguns deles (incluindo o
+autor) eram também membros ativos do PSDB, o mesmo partido de Fernando
+Henrique.
+
+O ministro e sua equipe sabiam perfeitamente que para controlar a inflação era
+necessário ir além das metas fiscais do programa econômico inicial, que
+objetivavam controlar o déficit operacional ex ante, mas não agiam sobre o
+déficit nominal. A diferença entre o déficit nominal e o operacional é que o
+primeiro inclui os pagamentos dos juros nominais sobre a dívida pública,
+enquanto o último só inclui os pagamentos dos juros reais (isto é, corrigidos pela
+inflação). Uma vez que os pagamentos de juros nominais dependem da taxa de
+inflação, com inflação elevada o déficit nominal pode ser muito alto, mesmo
+quando o déficit operacional está equilibrado. Assim, em 1993, quando a
+inflação foi de 2.490%, o orçamento operacional apresentou um superávit de
+0,25% do PIB, enquanto o déficit nominal foi de 58,4% do PIB.
+
+O orçamento operacional podia estar equilibrado, mas enquanto a inflação
+mantivesse elevado o déficit nominal, a oferta monetária no seu conceito amplo
+continuaria a se expandir, realimentando, assim, a taxa de inflação. A oferta de
+moeda no sentido amplo inclui o valor da dívida pública interna, que era um
+substituto quase perfeito da moeda, por motivos que serão explorados na
+próxima seção. Além disso, à medida que os agentes econômicos aperfeiçoavam
+os mecanismos de indexação de suas remunerações, a aceleração inflacionária
+seria inevitável. Pior ainda, com as eleições presidenciais de outubro de 1994 à
+vista, não podia ser descartada a ocorrência de uma hiperinflação virulenta,
+causada por uma fuga da moeda doméstica em antecipação ao choque
+econômico que quase com certeza seria adotado pelo novo governo. O assim
+chamado Plano Collor I, introduzido na inauguração do governo anterior,
+congelara 75% de todos os ativos financeiros privados domésticos.69
+
+Controlar o déficit nominal era um problema monetário, e não fiscal, no sentido
+de que se a inflação acabasse, o déficit nominal seria igual ao déficit
+operacional. Dessa forma, se o último estivesse equilibrado, a oferta monetária
+ampla deixaria de crescer, corroborando, assim, o fim da inflação. Para lidar com
+o círculo vicioso entre inflação e oferta monetária ampla, três estratégias
+poderiam ser contempladas: declarar um congelamento de preços e salários,
+como no fracassado Plano Cruzado de 1986;70 prefixar a taxa de câmbio, as
+tarifas públicas e os preços dos oligopólios do setor privado de acordo com uma
+trajetória declinante, como no fracassado programa de estabilização do ministro
+Delfim Netto em 1980;71 ou adotar um amplo programa de reforma monetária.
+
+Após longa reflexão, optou-se, em setembro de 1993, pela terceira alternativa, a
+despeito dos altos riscos envolvidos. A ideia de repetir o Plano Cruzado
+repugnava os membros da equipe (inclusive o autor) que haviam participado
+dessa tentativa fracassada de acabar com a inflação brasileira. Utilizar a técnica
+de prefixar a trajetória dos preços-chave para reduzir lentamente a inflação
+também contrariava a profunda convicção da equipe de que técnicas gradualistas
+eram impotentes para lidar com a inflação crônica brasileira.
+
+As linhas gerais do programa de reforma monetária já haviam sido longamente
+debatidas pelos membros da equipe, tendo como base a proposta de reforma
+monetária de Arida e Lara Resende (1986). Nessa proposta, a ideia era criar
+temporariamente um sistema bimonetário, em que a moeda nova teria paridade
+fixa com o dólar, sendo permitida a conversão voluntária de salários e preços
+contratuais na nova moeda, desde que fossem abolidas as cláusulas de
+indexação. Quando essa conversão se completasse, a moeda velha seria extinta.
+
+A equipe, entretanto, optou por um procedimento em dois estágios de
+substituição da velha moeda inflacionada (o cruzeiro real) por uma moeda nova
+e estável, inicialmente como unidade de valor e em seguida como meio de
+pagamento. Assim, o primeiro passo consistia em criar uma unidade de conta, a
+URV (iniciais de “unidade real de valor”), cuja taxa de câmbio informal em
+relação ao dólar era de 1 URV = US$ 1. O valor dessa unidade em termos do
+cruzeiro real (assim como o valor do dólar em relação ao cruzeiro real) seria
+reajustado diariamente pelo Banco Central, in tandem com a taxa diária da
+inflação observada em cruzeiros reais. A partir daí, de acordo com regras pré-
+especificadas, todos os contratos de preços e salários em cruzeiros reais seriam
+convertidos em URVs, substituindo, assim, os contratos previamente estipulados
+segundo diferentes indexadores e períodos, inclusive sobrepostos. Quando todos
+os contratos tivessem sido convertidos em URV, essa unidade de conta passaria a
+ser emitida sob o nome de real, como a nova moeda do país, com uma paridade
+inicial de R$ 1 = US$ 1.
+
+A reação inicial de economistas estrangeiros não familiarizados com a economia
+brasileira, quando apresentados a esse programa, é inevitavelmente a de
+perguntar: por que não dolarizar a moeda de imediato, em vez de fazê-la passar
+por um mecanismo de conversão tão complexo? Uma razão é que isso não
+resolveria o problema da conversão dos contratos, já que os contratos existentes,
+denominados em cruzeiros reais com diferentes cláusulas de indexação, não
+mantinham valores invariáveis em dólar. Graças à indexação generalizada e à
+existência de substitutos da moeda protegidos contra a inflação, a economia
+brasileira não se dolarizou, a despeito da alta inflação crônica. Como contratos
+denominados em dólar eram proibidos, eles eram estabelecidos em cruzeiros
+reais, com cláusulas periódicas de reajuste indexadas à evolução de índice
+doméstico de preços. Em vez de forçar uma dolarização artificial da economia, o
+Plano Real trilhou um caminho em direção à estabilidade de preços
+aperfeiçoando esse mecanismo doméstico de indexação contratual.
+
+Além de introduzir a nova moeda de uma forma sequencial e de estipular regras
+para a conversão de contratos, outra novidade do programa foi fazer preceder a
+reforma monetária pela aprovação de uma emenda constitucional que permitisse
+o equilíbrio do orçamento fiscal. Também se estabeleceu que todos os passos da
+reforma monetária seriam previamente anunciados desde o início.
+
+Apenas sob tais condições, segundo a avaliação da equipe, seria possível obter
+da população a confiança necessária para o sucesso de um programa tão
+ambicioso, no último ano de um governo fraco e dividido. Itamar esperava um
+programa com resultados mais imediatos e com menos precondições, mas deu
+pleno consentimento para que Fernando Henrique e sua equipe procedessem da
+maneira que julgassem mais adequada. O programa também foi submetido, em
+uma reunião a portas fechadas, à liderança do PSDB. Depois de uma longa
+discussão, a reação dos políticos foi sintetizada pelo então senador Mário Covas
+mais ou menos nos seguintes termos: “Neste partido, nós, políticos, damos a
+direção política e vocês, economistas, dão a direção técnica: se esta é a única
+maneira pela qual vocês acham razoável proceder, OK, nós os
+acompanharemos... até o precipício!” Apesar desse relutante apoio político, a
+equipe econômica sabia muito bem que a linha de ação proposta nunca havia
+sido experimentada antes, no Brasil ou em qualquer outro lugar, e que o sucesso
+da estabilização estava longe de ser garantido.
+
+O fato de o FMI, após longa negociação, não ter apoiado o programa não ajudou
+a melhorar as expectativas de sucesso. A equipe do Fundo desejava um ajuste
+fiscal muito mais profundo do que era factível e uma política monetária muito
+mais apertada do que parecia aconselhável. A equipe do Fundo também
+estranhava a proposta de uma reforma monetária em dois estágios, não
+conseguindo ver como a inflação poderia sofrer uma queda abrupta com a
+introdução da nova moeda se as posturas fiscal e monetária não seriam tão
+diferentes daquelas observadas na antiga moeda – com a postura fiscal sendo
+medida pelo déficit operacional e a monetária pelo nível das taxas de juros reais.
+
+Os autores do plano não conseguiram convencer a equipe do Fundo de que o
+motivo pelo qual a “mágica” da reforma monetária poderia funcionar era que o
+Brasil operava em um regime de indexação generalizada de preços e salários,
+com a moeda e o câmbio completamente passivos, sendo essa a razão por que a
+inflação mostrava-se insensível tanto ao déficit operacional (que estava em
+equilíbrio ex post, e, nesse sentido, não requeria o imposto inflacionário como
+um mecanismo de financiamento) como às taxas reais de juros (que estavam
+alinhadas com o “risco Brasil”, como indicado pelas entradas líquidas de capital
+externo).72 Assim que os contratos de preços e salários fossem desindexados
+com a introdução da nova moeda, políticas monetárias e cambiais ativas
+poderiam ser implementadas. Talvez a equipe do Fundo se sentisse atraída por
+essas proposições, mas – tendo manchado sua reputação ao apoiar sucessivas
+tentativas recentes de estabilização fracassadas no Brasil e sentindo um óbvio
+desconforto com o incerto contexto político no qual o plano seria implantado –
+decidiu por observar a distância, em vez de envolver-se com um esquema tão
+novo.
+
+No fim de 1993, o nível de tensão na equipe econômica aumentou ainda mais
+quando alguns membros da equipe decidiram sair do governo antes do
+lançamento do programa.
+
+
+
+7.3. O lançamento do Plano Real: 1994
+
+
+
+O Plano Real foi um programa de estabilização preanunciado em três estágios,
+cuja natureza sequencial foi apresentada ao país por Fernando Henrique em 7 de
+dezembro de 1993 (ver Plano [1994]). O primeiro estágio era um mecanismo de
+equilíbrio orçamentário. O segundo introduzia uma unidade de conta estável
+para alinhar os preços relativos mais importantes da economia. O terceiro
+estabelecia a conversão dessa unidade de conta na nova moeda do país, a uma
+taxa de paridade semifixa com o dólar.
+
+O primeiro estágio consistiu em equilibrar o orçamento fiscal operacional, por
+intermédio de cortes profundos na proposta orçamentária para 1994. A
+implantação desses cortes exigiu a aprovação pelo Congresso de uma emenda
+constitucional (que ficou conhecida como Fundo Social de Emergência),
+permitindo o corte, nos anos fiscais de 1994 e 1995, de 20% de um conjunto
+importante das destinações orçamentárias. A pedido de Fernando Henrique,
+Itamar submeteu ao Congresso um conjunto de reformas constitucionais
+profundas na área fiscal, que garantiriam um equilíbrio orçamentário mais
+permanente. O Fundo Social de Emergência foi concebido como um instrumento
+temporário para equilibrar o orçamento enquanto as medidas mais permanentes
+não entrassem em vigor. O Congresso, entretanto, não conseguiu votar essas
+medidas em tempo hábil.
+
+A finalidade da etapa fiscal do plano era demonstrar a capacidade de o governo
+federal executar as despesas orçadas sem precisar das receitas geradas pela
+inflação. Tradicionalmente, o orçamento federal era aprovado com um grande
+déficit, mas como as despesas eram fixadas em termos nominais, enquanto os
+impostos eram indexados ao nível de preços, a inflação contribuía para fechar o
+hiato entre despesa e receita. O equilíbrio exato era desnecessário, pois a
+inflação também gerava um montante considerável de recursos adicionais por
+meio do imposto inflacionário. Em ambos os sentidos – compressão dos gastos
+orçados e geração do imposto inflacionário – o governo se tornara dependente da
+inflação para equilibrar suas contas. Os cortes no orçamento permitidos pelo
+Fundo Social de Emergência representaram, portanto, um compromisso do
+governo federal de abandonar práticas orçamentárias dependentes da inflação. A
+aprovação da emenda constitucional pelo Congresso traria reconhecimento
+político à tese da equipe econômica de que o equilíbrio do orçamento era um
+primeiro passo essencial para o controle da inflação.
+
+Com a aprovação da emenda pelo Congresso – que ocorreu em fevereiro de
+1994 – o governo introduziu, em 1º de março de 1994, uma unidade de conta
+estável (que foi denominada de Unidade Real de Valor, ou URV),
+aproximadamente em paridade com o dólar. Com poucas exceções, requereu-se
+que todos os contratos de preços e salários fossem redenominados nessa nova
+unidade de conta. Excluindo-se salários, aluguéis residenciais, mensalidades
+escolares e preços e tarifas públicos, os termos das conversões poderiam ser
+negociados livremente entre as partes contratantes, desde que fossem abolidas as
+cláusulas de reajuste de preços inferiores a um ano.
+
+A proposta original de Arida e Lara Resende (1986) contemplava uma conversão
+voluntária de salários e preços contratuais, mas isso se revelou difícil, inclusive
+por causa da irredutibilidade dos salários nominais determinada pela
+Constituição. De acordo com a lei vigente, os salários do setor privado tinham
+reajuste pleno pela taxa de inflação a cada quatro meses, com um reajuste parcial
+no segundo mês. Nesse caso, se fosse permitida a livre negociação, os
+assalariados poderiam esperar até que seus respectivos salários se encontrassem
+no pico quadrimestral e então requerer a conversão desse valor em URV. Isso
+levaria a uma pressão intensa sobre os preços, já que o pico dos salários era
+cerca de 30% superior ao valor médio dos salários reais ao longo do
+quadrimestre. Determinou-se, portanto, que, na introdução da URV, em 1º de
+março de 1994, todos os salários seriam convertidos pelo salário real médio do
+quadrimestre anterior. A aprovação política dessa medida em tempo hábil exigiu
+que procedimentos similares fossem impostos aos aluguéis residenciais e às
+mensalidades escolares.
+A conversão de todos os contratos numa unidade de conta estável, vista como
+um primeiro passo em direção a uma moeda estável, significava, essencialmente,
+que todos os contratos vigentes na economia poderiam se beneficiar, dali em
+diante, da indexação diária, tendo sido também anunciado que o valor da nova
+unidade de conta seria reajustado diariamente, mantendo a paridade com o dólar,
+de acordo com a evolução da média de três índices de preços muito utilizados na
+indexação de contratos. Contratos expressos em dólar continuaram sendo
+proibidos. Depois de convertidos em URV, os preços contratados não poderiam
+mais conter cláusulas de indexação de curto prazo e os reajustes contratuais só
+poderiam ocorrer depois de um ano. No caso dos contratos salariais, as revisões
+poderiam acontecer na próxima data-base de negociação.
+
+A principal finalidade dessa segunda etapa do plano era alinhar os preços
+relativos mais importantes da economia, uma vez que a existência de contratos
+indexados, com indexadores e datas de reajuste diferentes, implicava uma grande
+dispersão de preços a qualquer momento, com alguns deles tendo sido
+reajustados recentemente e outros apresentando uma grande defasagem. Em tais
+circunstâncias, uma súbita interrupção do processo inflacionário surpreenderia
+alguns preços em seu valor de pico e outros no vale. Tais desalinhamentos de
+preços tenderiam inevitavelmente a impor pressões inflacionárias adicionais, na
+medida em que cláusulas prévias de reajuste continuariam a forçar para cima os
+preços defasados. Esse mecanismo de indexação não sincronizado fornecia o
+chamado componente inercial da inflação brasileira, distinto do componente
+estrutural associado ao déficit operacional ex ante do orçamento federal.
+
+Em 1º de julho de 1994, após um período de quatro meses de conversões de
+contratos, o Banco Central começou a emitir a URV como a nova moeda do país,
+agora denominada real, para cuja paridade cambial foi estabelecido o teto de R$
+1/US$ 1. O Banco Central comprometeu-se a vender dólares toda vez que seu
+valor no mercado cambial ameaçasse superar R$ 1, mas não era obrigado a
+intervir caso esse valor se mantivesse em níveis inferiores à paridade. Isso ficou
+conhecido como a política cambial da banda assimétrica, com um limite superior
+de R$ 1 e um limite inferior indefinido, que na prática provou estar em torno de
+US$ 0,83 por real. Em conformidade com a proposta inicial do programa, a data
+de conversão da moeda foi anunciada com trinta dias de antecedência. O
+governo fixou, então, uma taxa de conversão de R$ 1 por CR$ 2.750 (esse foi o
+valor em cruzeiros reais da URV em 30 de junho de 1994) para a troca do
+estoque de moeda e para a redenominação em reais dos contratos e preços ainda
+não convertidos de cruzeiros reais em URV. Completou-se, assim, a reforma
+monetária em três estágios de que consistiu o Plano Real. Com a substituição do
+cruzeiro real pelo real como a moeda oficial do país, todos os contratos cujo
+valor havia sido previamente estipulado em termos reais (isto é, em URV)
+passaram a ter seu valor fixo em termos nominais (isto é, em reais).
+
+
+
+7.4. Principais características da reforma monetária
+
+
+
+O Plano Real teve características bastante peculiares quando comparado a outros
+programas de reforma monetária. Primeiro, a desindexação de preços e salários
+foi precedida de uma fase de indexação plena. Segundo, a reforma monetária foi
+preanunciada, negociada com o Congresso e introduzida sem congelamento de
+preços e salários. Terceiro, a estabilização foi alcançada sem confisco de ativos
+financeiros. Quarto, tanto a política monetária quanto a cambial foram flexíveis,
+em vez de obedecer a metas monetárias estritas ou a um regime cambial fixo.
+Quinto, a estabilização aconteceu no contexto de uma economia em expansão.
+
+
+
+7.4.1. Desindexação precedida de indexação plena
+
+
+
+O aspecto mais interessante e polêmico do programa foi sua segunda fase, isto é,
+a introdução de uma unidade de conta estável para alinhar os preços relativos da
+economia por meio de um mecanismo de indexação plena. À primeira vista, isso
+poderia parecer uma contradição, dado o diagnóstico amplamente aceito de que a
+dificuldade de combater a inflação brasileira residia especificamente no alto grau
+de indexação da economia. Como seria possível a uma acentuação no
+mecanismo de indexação ajudar o combate à inflação?
+
+O ponto crítico para esclarecer esse aparente paradoxo é o procedimento de
+conversão pela média. Consideremos especificamente os salários, embora o
+raciocínio se aplique a qualquer fluxo de renda sujeito a indexação. Uma
+aceleração na indexação (digamos, uma redução do período de reajuste de quatro
+para dois meses) tende a acelerar a inflação se o ponto de partida for o valor de
+pico, pois nesse caso – com o produto real mantido constante por uma política
+monetária passiva – uma inflação mais rápida é exigida para que, ao longo do
+ciclo salarial, o valor real do salário retorne à média anterior. No entanto, quando
+os salários são primeiro convertidos a seu valor médio e só então submetidos a
+uma indexação mais frequente, a aceleração inflacionária não é mais necessária
+para reduzir o salário real a seu valor prévio de equilíbrio.
+
+É difícil imaginar que os salários teriam sido voluntariamente convertidos pela
+média, caso não tivessem sido forçados a fazê-lo pelo dispositivo legal de
+conversão imediata no dia da introdução da URV. O dispositivo legal para
+permitir a conversão pela média consistia em definir a URV como uma pré-
+moeda, que fazia parte do sistema monetário do país. Do ponto de vista legal, os
+advogados do governo consideraram aceitável fixar os salários em unidades
+dessa pré-moeda, mesmo que o valor resultante pago em cruzeiros reais fosse
+inferior ao que os assalariados teriam recebido no fim do mês pela lei salarial
+anterior.
+
+Uma conversão voluntária pela média poderia ter acontecido se o programa
+gozasse de total credibilidade, com os agentes convencidos não só de que o
+orçamento estava de fato equilibrado, mas também de que a política monetária
+na nova moeda não seria acomodatícia como antes. Dada a evidência passada de
+fracassos em sucessivos planos de estabilização, além das precárias condições
+políticas nas quais o Plano Real foi introduzido, a conversão voluntária pela
+média exigiria um verdadeiro ato de fé por parte dos agentes econômicos. Mais
+provavelmente, apostar-se-ia que o governo não cumpriria a promessa de
+austeridade fiscal e monetária, o que levaria os líderes trabalhistas, a classe
+empresarial e a poderosa Justiça do Trabalho a continuar operando como antes.
+Isto é, com generosas concessões salariais sendo imediatamente repassadas aos
+preços. No Brasil, a justiça trabalhista tem a prerrogativa constitucional de fixar
+o valor dos reajustes salariais caso não haja acordo entre empregados e
+empregadores em suas negociações anuais. A tradição da Justiça do Trabalho era
+a de compensar plenamente os salários pela inflação passada, acrescentando uma
+margem de 4% a 7% a título de ganho de produtividade.
+
+Um ponto sutil é que, com a URV, o período de reajuste dos salários foi não
+apenas encurtado, mas, de fato, reduzido a níveis próximos de zero. Esse período
+não era exatamente igual a zero porque a URV era corrigida não pela taxa de
+inflação corrente, mas sim pela variação de índices de preços que refletiam a
+inflação com aproximadamente um mês de defasagem. De qualquer maneira,
+nesse novo contexto, os salários tinham uma resposta integral e quase imediata a
+qualquer mudança na taxa de inflação. Consequentemente, a taxa de inflação
+requerida para reduzir os salários tornou-se quase infinita: o ponto, entretanto,
+era que, dado que os salários já haviam sido convertidos pela média, a redução
+dos salários reais pela inflação não era mais necessária. Um complicador era que
+o mesmo mecanismo de indexação se aplicava à taxa de câmbio – reajustada
+diariamente pari passu com a URV – e parcialmente também à oferta de moeda.
+
+A moeda, no sentido restrito (e, no Brasil daquele tempo, quantitativamente
+insignificante) de papel-moeda em poder do público mais depósitos à vista, não
+foi convertida em URV – pois esse era o estágio final da reforma monetária –
+mas seus substitutos em geral, como fundos financeiros de curto prazo, passaram
+a ser cotados de acordo com a URV ou com a taxa de juros de curto prazo, sendo
+essa reajustada pelo Banco Central de acordo com a taxa corrente de inflação.
+Por outro lado, um sistema de redesconto automático por parte do Banco Central
+garantia aos bancos comerciais suas necessidades de liquidez no mercado de
+reservas bancárias. Nesse sentido, a taxa de crescimento da base monetária era
+totalmente determinada pela demanda por moeda. A conclusão é que, com a
+introdução da URV, o nível de preços ficou virtualmente sem âncoras (fossem
+elas os salários, o câmbio ou a oferta de moeda) e, portanto, se tornou
+extremamente suscetível a uma eventual aceleração inflacionária causada por
+expectativas adversas ou choques de oferta.
+
+Daí o dilema do formulador de política. Por um lado, o aperfeiçoamento do
+sistema de indexação era necessário para liberar a economia da inércia de preços
+e salários, garantindo que, quando a URV fosse transformada de um indexador
+universal em uma nova moeda não indexada (o real), nenhuma “memória
+inflacionária” continuasse atuando. Por outro lado, quanto mais perfeita fosse a
+indexação, mais suscetível ficaria a economia a entrar numa espiral
+hiperinflacionária provocada por expectativas adversas ou choques de oferta.
+
+Era preciso chegar a um compromisso e esse tomou diversas formas. Primeiro, a
+URV foi desenhada para variar de acordo com a inflação passada, e não a
+corrente. Isso, em parte, também aconteceu porque o cálculo dos índices de
+preço exigia no mínimo uma semana para a coleta de uma amostra representativa
+de preços e outra para o processamento de dados – e a equipe econômica queria
+usar os preços observados para calcular a URV, demonstrando que ela era uma
+medida objetiva da inflação em cruzeiros reais, não sujeita a manipulações ou a
+especulações governamentais otimistas.
+Segundo, proibiu-se inicialmente a conversão dos contratos financeiros em URV,
+introduzindo-se, em seguida, um procedimento gradual para permitir que,
+sucessivamente, tais instrumentos – duplicatas, Certificados de Depósito
+Bancário (CDBs), títulos do Tesouro, fundos de curto prazo etc. – passassem a
+ser emitidos em URV. A moderação na conversão dos instrumentos financeiros
+refletia a preocupação de manter intacta a demanda por cruzeiros reais, isto é, de
+evitar uma fuga da moeda doméstica, que poderia causar uma aceleração súbita
+da inflação.
+
+Terceiro, proibiu-se inicialmente que os preços de bens e serviços para
+pagamento à vista fossem expressos em URV, com o propósito de não reduzir os
+“custos de menu” dos reajustes diários de preços, considerados capazes de pôr
+um certo freio na aceleração inflacionária. No terceiro mês da URV, essa
+restrição foi suspensa para que a população se acostumasse à experiência de
+preços constantes em URV. Quarto, os preços e tarifas públicos foram
+convertidos em URV através de um procedimento gradual, com um
+encurtamento progressivo do período de reajuste dos preços em cruzeiros reais,
+mantendo-se aproximadamente constantes os preços reais médios.
+
+A decisão final dizia respeito ao período de duração da URV. Alguns
+economistas influentes argumentavam que dado que os salários haviam sido
+convertidos pela média, a maior parte do trabalho já havia sido feita e o período
+da URV deveria ser encurtado para durar, no máximo, dois meses. Esse
+argumento tinha também uma preocupação política, no seguinte sentido: de
+início, os assalariados se sentiriam satisfeitos ao ver seus reajustes
+quadrimestrais substituídos por reajustes mensais. Mas em seguida sua
+insatisfação cresceria, pois, como seus salários eram recebidos em cruzeiros
+reais, eles seriam corroídos pela inflação diária que continuava a ocorrer. Assim,
+para maximizar a boa vontade dos assalariados e evitar o risco de uma
+hiperinflação, a duração do período de vigência da URV deveria ser encurtada,
+ao invés de estendida.
+
+Outros economistas, porém, argumentavam que as condições políticas não
+estavam maduras para a estabilização e que a duração do período de vigência da
+URV deveria se estender até a posse do novo governo. Havia o temor de que a
+capacidade da equipe econômica de controlar as políticas fiscal e monetária
+declinaria abruptamente assim que a reforma monetária provocasse uma
+interrupção da inflação. Também se argumentava que quanto mais extensa fosse
+a vigência da URV, mais incentivadas seriam as conversões voluntárias,
+enquanto que um período mais curto exigiria maior intervenção governamental.
+
+O período de quatro meses finalmente adotado talvez tenha sido curto demais
+para a conversão de aluguéis, mensalidades escolares e planos de saúde, o que
+deixou algum resíduo inflacionário para o período do real. O problema não foi
+de natureza econômica, mas derivado de pressões políticas no governo contra as
+regras de conversão propostas pela equipe econômica para esses contratos.
+Alcançou-se uma solução de compromisso apenas no fim do período de vigência
+da URV, o que provocou uma inflação em reais que deveria ter sido absorvida,
+idealmente, em cruzeiros reais, ainda na vigência da URV.
+
+O Plano Real foi implantado em condições políticas peculiares. Estavam
+marcadas eleições gerais para 3 de outubro de 1994, incluída a eleição para
+presidente. Fernando Henrique deixou o Ministério da Fazenda no início de
+abril, para transformar-se no candidato a presidente de uma coalizão de centro,
+com o apoio de Itamar. Foi substituído pelo embaixador Rubens Ricupero, que
+preservou em suas funções todos os membros da equipe de Fernando
+Henrique.73 Se Fernando Henrique tivesse uma boa chance de ser eleito, os
+mercados naturalmente antecipariam que o programa continuaria no próximo
+governo e isso ajudaria a estabilizar as expectativas e evitar ataques
+especulativos. Se, ao contrário, as perspectivas eleitorais do candidato líder das
+oposições, Luiz Inácio Lula da Silva, do PT, continuassem a melhorar, baseadas
+em parte em suas críticas contra o fracasso governamental em conter a escalada
+inflacionária, os mercados financeiros poderiam antecipar uma descontinuidade
+no programa.
+
+Tendo-se obtido a partir de 1º de julho de 1994 o controle inflacionário inicial,
+todos os candidatos tiveram de adaptar seus discursos eleitorais à nova realidade
+monetária, comprometendo-se a manter intacto o plano caso fossem eleitos. Mas
+o principal beneficiário do sucesso inicial do plano foi seu autor, Fernando
+Henrique. No início da campanha, as pesquisas de opinião conferiam-lhe a
+metade dos votos do candidato líder, Lula. Fernando Henrique assumiu a
+liderança das pesquisas após a introdução do real e elegeu-se presidente com
+uma maioria de 54% dos votos no primeiro turno.
+
+Na prática, a experiência de quatro meses com a URV não levou a uma
+aceleração apreciável da inflação em cruzeiros reais, exceto nos últimos dias que
+precederam a introdução do real, quando houve uma escalada de preços na
+expectativa da mudança do regime monetário que se seguiria. O Ministério da
+Fazenda comprometera-se a não impor congelamento de preços (exceto de
+preços e tarifas públicos) após a introdução do real, mas, levando-se em conta
+experiências de estabilização anteriores em que o congelamento fora
+inicialmente negado para depois ser introduzido de surpresa, é possível que os
+agentes econômicos não tenham acreditado plenamente no compromisso
+assumido pelo governo, particularmente porque se sabia que o ministro da
+Justiça pressionava a favor da adoção de controle de preços.74 O medo do
+controle de preços pode ter levado à aceleração da inflação verificada a partir de
+meados de junho, mas de modo geral uma estratégia avessa ao risco por parte
+dos formadores de preços levaria de qualquer maneira a aumentos preventivos.
+Afinal, os preços sempre poderiam ser reduzidos caso se verificasse algum
+desalinhamento, enquanto que um aumento de preços em reais após 1º de julho
+seria muito visível e capaz de induzir à resistência dos consumidores e mesmo a
+alguma retaliação por parte do governo.
+
+
+
+7.4.2. Estabilização súbita sem congelamento de preços
+
+
+
+As negociações entre as partes privadas quanto aos termos da conversão de seus
+contratos em URV foram, em muitos casos, bastante árduas, tendo em vista a
+dificuldade de distribuir as perdas e os ganhos inflacionários implícitos nos
+contratos anteriores.
+
+Um caso interessante foi o da conversão dos preços das passagens dos ônibus
+municipais, controlados pelas prefeituras. Tais preços eram, tipicamente,
+ajustados mensalmente de acordo com a inflação. Apesar dos esforços do
+governo federal, durante a vigência da URV os governos municipais resistiram à
+ideia de encurtar gradualmente os períodos de reajuste, ainda que mantendo o
+mesmo valor real médio das tarifas. De modo geral, eles foram, então,
+convertidos de cruzeiros reais em reais em 1º de julho, imediatamente após
+terem sido reajustados pela inflação plena do período anterior, o que acarretou
+um aumento significativo no preço real médio ao longo de trinta dias, uma vez
+que ele deixou de ser erodido pela inflação diária que ocorria entre os sucessivos
+reajustes mensais. As negociações subsequentes entre o governo federal e as
+prefeituras resultaram numa certa reversão dessas decisões, porém não na
+maioria dos casos.
+O argumento usado contra a redução das tarifas mostra as complexidades da
+redistribuição de renda em economias inflacionárias. O argumento era que os
+reajustes mensais dos preços das passagens de ônibus, que entravam em vigor
+imediatamente, correspondiam aos reajustes mensais dos salários dos
+empregados das empresas de ônibus, que eram pagos somente após trinta dias.
+Ou seja, a margem de lucro das empresas derivava da defasagem de trinta dias
+entre o aumento das tarifas e o subsequente aumento dos salários. Em 1º de
+julho, os salários subiram de acordo com o acordado um mês antes e, portanto,
+se as tarifas também não subissem nessa data, a margem de lucro das empresas
+cairia em relação à que prevalecia antes da introdução do real. Com o fim da
+inflação, a defasagem entre salários e tarifas ao longo do mês deixou de existir e,
+portanto, em termos de custos salariais, os preços reajustados das passagens de
+ônibus continuaram os mesmos, ainda que estivessem mais altos do que antes
+em termos do índice geral de preços.
+
+Outro exemplo, do setor privado, foram os contratos para vendas de livros entre
+editoras e livrarias. Antes da URV, as editoras vendiam seus livros com um
+desconto de 30%, mas com um prazo de pagamento de 40 dias, o que resultava
+num generoso desconto adicional, dependendo do dia da venda do livro ao
+consumidor final. Na conversão para a URV, as editoras queriam manter o
+desconto em 30%, embora, daí em diante, com os preços fixados em URV, elas
+garantissem a recuperação plena dos valores reais contratados. Com a
+autorização para os bancos descontarem duplicatas denominadas em URV, na
+maioria das negociações desse tipo as partes conseguiram chegar a um acordo
+sem a necessidade de intervenção do governo.
+
+No entanto, em setores importantes para o custo de vida, tais como planos de
+saúde, medicamentos, alimentos e produtos de higiene e limpeza, o Ministério da
+Fazenda criou um fórum informal de negociação e ofereceu, frequentemente,
+seus próprios serviços como árbitro, para estabelecer um acordo entre as partes
+litigantes. Essa importante característica do programa ficou conhecida como a
+“dallarização”, um trocadilho com o nome do principal negociador de preços do
+governo, José Milton Dallari. Normalmente, esses acordos envolviam o
+compromisso de manter constantes por algum tempo os preços estabelecidos em
+URV.
+
+O principal objetivo do período da URV foi o de permitir um alinhamento
+substancial de preços e salários e a eliminação da indexação retroativa, sem a
+necessidade de um subsequente congelamento de preços e salários para conter a
+inflação, como nos planos de estabilização anteriores. A indexação retroativa foi
+extinta porque a própria URV era um índice de preços e, mesmo não refletindo a
+taxa de inflação momentânea, mudou a regra salarial de um ciclo quadrimestral
+para um regime de indexação diária, ajudando, assim, a convencer os sindicatos
+a aceitar a conversão dos salários pelo seu valor médio (em vez do valor de pico)
+sem a promessa de um subsequente congelamento de preços.
+
+As maiores armadilhas para essa concordância estavam na aceleração
+amplamente antecipada da inflação durante a vigência da URV e na ausência de
+um mecanismo de proteção dos salários uma vez introduzido o real. Para
+garantir que o Congresso aprovasse a URV (criada através de uma medida
+provisória), dois mecanismos de proteção dos salários foram incluídos na
+proposta do governo. O primeiro permitia um aumento salarial, na data-base
+subsequente de cada categoria, caso ficasse comprovado que nos quatro meses
+de vigência da URV a soma dos salários convertidos em URV fora inferior ao
+que teria sido pela lei salarial anterior. Como na maioria dos casos verificou-se
+uma diferença positiva a favor da URV, esse mecanismo não afetou o
+comportamento dos salários após a introdução do real, prevenindo, ainda por
+cima, as críticas a supostas perdas salariais na conversão à URV.
+
+O segundo mecanismo introduziu um índice oficial de preços para medir a
+inflação em reais, construído para incorporar a aceleração da inflação nos
+últimos dias da URV, a qual, devido à defasagem no cálculo dos índices de
+preços, não fora computada no último valor da URV, do dia 30 de junho. O
+acordo foi que, durante o primeiro ano do real, os salários receberiam reajuste
+pleno de acordo com a evolução do índice oficial, na data-base subsequente de
+cada categoria. Assim, um mecanismo aparentemente suave de indexação
+salarial foi mantido para os primeiros 12 meses do real. Infelizmente,
+parcialmente por conta de grandes aumentos de aluguéis residenciais e outros
+serviços, esse índice oficial acumulou uma inflação próxima a 12% nos dois
+primeiros meses do real, gerando, assim, uma forte pressão salarial que
+contribuiu significativamente para a apreciação efetiva da nova moeda.
+
+A contrapartida política dessas concessões salariais foi que elas ajudaram a
+convencer a Justiça do Trabalho a cooperar com o governo, aceitando aplicar
+estritamente os termos da nova lei salarial nos dissídios coletivos, ao invés de,
+como de costume, restabelecer o valor de pico dos salários a cada negociação
+anual.
+Apesar da elevação de preços nos últimos dias da URV, o sucesso do Plano Real
+provou ser correto o controvertido argumento de que a inflação poderia ser
+reduzida abruptamente sem congelamento de preços e salários. Especialistas
+estrangeiros foram unânimes em aconselhar a equipe econômica do governo a
+adotar um congelamento temporário de preços na fase inicial do real. Os
+mesmos consultores consideraram uma loucura anunciar com antecedência a
+introdução do real, temerosos quanto a um aumento generalizado de preços de
+natureza defensiva e a uma fuga da moeda.
+
+É verdade que as tarifas e os preços públicos foram congelados e a taxa de
+câmbio não poderia ser desvalorizada além de seu valor de paridade. Além disso,
+aumentos salariais (além dos termos da lei salarial) resultantes de acordos
+coletivos nas respectivas datas-base não poderiam ser repassados aos preços.
+Essa restrição não estava na lei – porque a equipe econômica achou que, se isso
+fosse feito, a Justiça do Trabalho sentir-se-ia mais confortável para ratificar os
+aumentos salariais, deixando ao governo a impossível tarefa de evitar as
+subsequentes elevações de preços. Ela foi introduzida no discurso governamental
+como uma espécie de mandamento moral que a classe empresarial deveria
+seguir.
+
+Foi bastante divulgado o caso da indústria automobilística, cuja negociação
+salarial o Ministério da Fazenda recusou-se a aceitar, por entender que ela teria
+efeitos colaterais perniciosos, mesmo diante da promessa da indústria de não
+elevar seus preços em seguida. Nesse caso, a negociação envolvia o sindicato
+mais poderoso do país e o cartel mais poderoso da América Latina.
+Tradicionalmente, essa negociação dava o tom das subsequentes reivindicações
+salariais na mais importante zona industrial do país, o ABC. A intervenção do
+ministro da Fazenda consistiu basicamente no uso de sua autoridade moral
+(embora associada ao recurso punitivo de redução das tarifas sobre carros
+importados), mas surtiu um efeito positivo, no sentido não só de forçar uma
+revisão nos termos do acordo, mas também de garantir que ele não se
+generalizasse para outros setores.
+
+Por meio do mecanismo informal de negociação de preços, chegou-se a acordos
+de persuasão moral entre o governo e os grupos empresariais mais importantes
+do país, para que eles mantivessem seus preços constantes em reais. Mas isso é
+muito diferente da utilização de controles formais de preços, uma vez que
+envolveu um mecanismo de consulta, por meio do qual a cooperação foi
+negociada, e não imposta. Os setores críticos da economia foram convidados a se
+tornar parceiros no esforço de estabilização, ao invés de operarem como
+opositores. É importante observar, ainda, que não houve tentativa de estabelecer
+pactos sociais formais, pois se julgou impossível negociá-los no contexto de uma
+sociedade heterogênea e atomizada como o Brasil, particularmente levando-se
+em conta a feroz disputa eleitoral para a Presidência que estava em curso.
+
+
+
+7.4.3. Estabilização sem confisco de ativos financeiros
+
+
+
+Quando o real foi introduzido, a base monetária correspondia a 0,6% do PIB e o
+M1 (papel moeda em poder do público mais depósitos bancários à vista),
+igualmente modesto, era de 1,1% do PIB. A moeda relevante era carregada sob a
+forma de fundos de curto prazo, sobre os quais se podiam passar cheques, já que
+os bancos comerciais garantiam a transferência automática desses fundos para as
+contas correntes. Tais fundos eram normalmente lastreados por títulos de um
+mês do Banco Central, que podiam por ele ser recomprados automaticamente à
+taxa de juros do overnight. Em princípio, o Banco Central estava preparado para
+prover liquidez imediata e sem custos à totalidade da dívida federal (títulos do
+Tesouro e do Banco Central em poder do público), que era detida
+predominantemente pelo próprio sistema bancário, e não por aplicadores finais.
+Essa dívida chegava a 6,8% do PIB e era o substituto doméstico da moeda que
+permitiu ao Brasil, a despeito das elevadíssimas taxas de inflação, evitar a
+dolarização de seu sistema monetário.75
+
+Os brasileiros de alta renda continuavam a reter depósitos em moeda doméstica,
+pois essa era protegida contra a inflação, e os bancos se dispunham a fornecer tal
+proteção, já que o Banco Central garantia remuneração e liquidez. Esse era o
+caso das contas bancárias médias e altas; o papel-moeda e as pequenas contas
+não gozavam de tal proteção, o que significava que o imposto inflacionário era
+pago majoritariamente pelas camadas mais pobres da sociedade.
+
+O Brasil operava, assim, com um sistema monetário em que se remunerava a
+moeda no seu conceito amplo, a uma taxa mantida mais ou menos constante, em
+termos reais, pelo Banco Central. Como resultado, uma elevação no nível de
+preços domésticos traduzia-se imediatamente no aumento similar do estoque de
+moeda no seu conceito amplo. Se, ao nível mais elevado de preços, houvesse
+demanda adicional por moeda no seu conceito restrito, essa seria
+automaticamente fornecida sob a forma de reservas bancárias adicionais, através
+do mecanismo de recompra automática do Banco Central.
+
+Essa característica do sistema monetário levou vários autores a acreditar que o
+Brasil teria de lidar com o problema da “liquidez excessiva” para implantar um
+programa de estabilização. O argumento era que uma parada súbita no processo
+inflacionário não seria imediatamente crível, principalmente em vista do fracasso
+de vários esforços de estabilização anteriores, ainda que o orçamento
+operacional do governo estivesse temporariamente equilibrado. Dessa forma, a
+moeda doméstica somente continuaria a ser retida pelo público se as taxas
+nominais de juros se mantivessem altas, o que significaria que o déficit nominal
+do setor público (que alimentava a oferta de moeda no seu conceito amplo)
+manter-se-ia elevado. Nessas circunstâncias, a queda da inflação, induzida, por
+exemplo, por um congelamento de preços e salários, só poderia ser temporária,
+porque a oferta de moeda no conceito amplo continuaria a crescer a taxas
+elevadas. Arguia-se que a tentativa de resolver esse problema por meio de uma
+redução súbita nas taxas nominais de juros causaria uma fuga da moeda na
+direção do dólar, gerando uma pressão substancial no mercado de câmbio e
+colocando em risco o programa de estabilização.
+
+Esse raciocínio levava à conclusão de que a supressão da liquidez dos fundos de
+curto prazo era um ingrediente necessário ao sucesso de um programa de
+estabilização no país. O Plano Collor I sintetizaria tal raciocínio ao decretar, em
+1º de março de 1990, que 75% de todas as contas de curto prazo fossem
+bloqueados por um período de 18 meses e que apenas os 25% restantes ficassem
+disponíveis com liquidez imediata.
+
+O Plano Real optou por uma linha diferente de ataque ao problema. Inicialmente,
+procurou-se construir um consenso nacional em torno da necessidade de zerar o
+déficit operacional do orçamento como precondição para a estabilização e, em
+seguida, obteve-se do Congresso a emenda constitucional requerida para garantir
+tal equilíbrio no período 1994/95. Comprometeu-se, então, com um
+procedimento de conversão monetária passo a passo, respeitando os contratos
+existentes, numa estratégia de introdução gradual e transparente da nova moeda.
+A ideia era conquistar a confiança da população na promessa de uma
+estabilização “sem choque, sem congelamento e sem confisco”, repetida ad
+nauseam pelo ministro da Fazenda e sua equipe econômica: fazer apenas o que
+foi anunciado e anunciar apenas o que seria feito.
+Esse esforço de relações públicas foi realizado com convicção, pois a equipe
+econômica sabia que tinha uma oportunidade única de implantar uma reforma
+monetária sem os traumas provocados por um sequestro de ativos financeiros.
+Isso foi possível graças ao grande volume de reservas internacionais acumuladas
+desde 1992. No momento da conversão monetária, em 30 de junho de 1994, elas
+somavam US$ 40,1 bilhões no conceito de caixa, correspondentes a 12,5 vezes a
+base monetária e a 62% do estoque de moeda no conceito amplo (dívida pública
+detida pelo público, mais papel-moeda e depósitos à vista). É verdade que as
+reservas correspondiam apenas a 30% da oferta de moeda num conceito ainda
+mais amplo (incluindo cadernetas de poupança e CDBs), mas mesmo assim
+pareciam suficientes para prover a nova moeda de uma forte linha de defesa,
+especialmente porque as restrições existentes à fuga de capitais foram mantidas.
+
+A decisão fundamental, porém, referia-se à taxa de juros do overnight que o
+Banco Central fixaria para o primeiro dia do real: para o último dia do cruzeiro
+real ela fora estipulada em 50% ao mês, abrindo em 8% ao mês no primeiro dia
+do real, o que representava uma queda realmente grande, mas que ainda deixava
+margem substancial para a arbitragem internacional da taxa de juros, em vista do
+limite de R$ 1 para US$ 1 fixado para a taxa de câmbio. A taxa de 8% era
+também muito alta em termos reais, uma vez que a maior parte da inflação
+medida pelos índices de preços de julho foi majoritariamente determinada pelo
+resíduo deixado pelos índices de preços de junho. Medida corretamente a partir
+de 1º de julho, a taxa de inflação no primeiro mês do real foi próxima de zero,
+mas isso não era sabido de antemão e levou algum tempo para aparecer nos
+índices de preços.
+
+Em agosto, o Banco Central deixou a taxa do overnight cair para 5% ao mês e
+esse movimento declinante continuou até outubro. A taxa de juros nos primeiros
+meses do real foi suficientemente alta para manter os depósitos nas cadernetas de
+poupança e não induziu a uma corrida ao consumo.
+
+Por fim, verificou-se que o problema da “liquidez excessiva” era inexistente.
+Pelo contrário, os brasileiros orgulharam-se da estabilidade da nova moeda e
+rapidamente engordaram o estoque de moeda não remunerada. Com o impulso
+adicional de exigência de uma reserva marginal de 100% sobre os depósitos
+bancários, a base monetária cresceu 300% do fim de junho ao fim de setembro,
+tornando difícil para o governo cumprir as metas monetárias estritas que havia
+inicialmente estabelecido para essa variável. A contrapartida dessa
+remonetização foi a redução do volume dos fundos de curto prazo, lastreados em
+dívida pública, o que contribuiu para a redução do pagamento de juros pelo
+governo federal. A grande diferença entre a taxa de juros doméstica e a do dólar,
+por outro lado, atraiu fundos estrangeiros, forçando o governo a elevar as
+barreiras à entrada de capitais de curto prazo, ao mesmo tempo que permitia uma
+apreciação do real em relação ao dólar em torno de 15%.
+
+A decisão de permitir uma conversão voluntária da dívida interna a taxas de
+juros de mercado foi muito mais onerosa em termos orçamentários do que a
+alternativa de forçar um alongamento compulsório do prazo da dívida a taxas de
+juros fixas. Mas isso se refere ao problema do custo fiscal, e não ao problema do
+estoque de moeda enfatizado na literatura sobre a “liquidez excessiva”. Em vista
+do superávit primário no orçamento que se sentiam capazes de produzir, os
+integrantes da equipe econômica consideraram que valia a pena assumir o custo
+fiscal, no intuito de fortalecer a confiança da população no programa, já que
+haviam prometido estabilizar os preços “sem choques, sem surpresas, sem
+confiscos e sem congelamentos”. Acreditava-se também que se o programa de
+estabilização fosse bem-sucedido, em tempo hábil iria ocorrer um alongamento
+voluntário da dívida interna a taxas de juros mais baixas, favorecido pela
+evidência da determinação do governo de respeitar os contratos existentes.
+
+O único ato do governo contestado na Justiça referiu-se à mensuração do fator
+de correção monetária aplicado à dívida interna do governo e outros débitos
+durante os meses de julho e agosto de 1994 – assim como às negociações
+salariais anuais depois de 1º de julho. O problema era que os índices de preços
+existentes levariam algum tempo para refletir a brusca queda da inflação
+ocorrida a partir de 1º de julho, tanto porque mediam as médias dos preços nos
+últimos trinta dias (e não os preços no fim do período), quanto porque o período
+a que se referiam era defasado em relação ao mês corrente. Assim, índices de
+preços não ajustados em julho e agosto indicariam fatores de correção monetária
+muito elevados, mesmo quando, de fato, a inflação houvesse declinado a quase
+zero desde a introdução da nova moeda. As autoridades governamentais, por
+essa razão, determinaram que, para fins de correção monetária, os índices de
+preços de julho e agosto deveriam ser calculados convertendo-se em unidades da
+URV do dia da coleta os preços em cruzeiros reais coletados durante maio e
+junho. Garantia-se, assim, que a correção monetária de julho e agosto refletisse
+de fato a inflação em reais, e não o carry-over da inflação em cruzeiros reais.
+
+Os detentores da dívida indexada do governo, que estavam especulando com os
+ganhos inflacionários derivados da correção monetária segundo as regras
+anteriores, obviamente ficaram insatisfeitos com essa decisão e processaram o
+governo; ainda se espera a decisão final do Supremo Tribunal Federal sobre essa
+questão. A base legal para a atuação do governo foi o fato de ele ter o direito
+pela Constituição de determinar as regras de conversão de contratos para a nova
+moeda, desde que mantido o “equilíbrio econômico e financeiro” desses
+contratos, o que parece ser o caso.
+
+Além disso, os índices de preços de julho e agosto só poderiam ser calculados ou
+transformando-se em cruzeiros reais os preços desses dois meses, que foram
+coletados em reais, ou transformando-se em reais (ou seja, em URV) os preços
+coletados em cruzeiros reais em maio e junho. O governo simplesmente
+determinou que a conversão dos preços coletados em cruzeiros reais deveria ser
+feita pelo valor da URV do dia da coleta. Foi em parte para fortalecer a base
+legal dessa decisão que o governo instituiu a URV não como um mero índice de
+preços, mas como uma “pré-moeda”, que se tornou parte integrante do sistema
+monetário do país em 1º. de março (e que foi transformada em moeda de fato, na
+base de 1 URV por 1 real, em 1º. de julho). Conforme já explicado, outra
+importante razão para criar a URV como uma quase-moeda foi garantir a
+legalidade da conversão dos salários pela média, sem ofender a garantia
+constitucional de irredutibilidade dos salários nominais numa dada moeda.
+
+
+
+7.4.4. Estabilização com políticas cambial e monetária flexíveis
+
+
+
+Nos livros-textos, são </presentados dois casos extremos para o regime
+monetário de uma economia aberta: de um lado, o regime de taxa de câmbio fixa
+com uma política monetária passiva; e, de outro, o regime de taxa de câmbio
+flutuante com uma política monetária ativa. O estágio inicial do Plano Real
+situa-se num ponto intermediário. As autoridades econômicas estavam
+legalmente comprometidas com um limite superior de R$ 1 para US$ 1 para a
+taxa de câmbio real/dólar. Ademais, por um lado, as taxas de juros internas
+foram mantidas em níveis suficientemente altos para evitar uma depreciação do
+real frente ao dólar. Por outro lado, foram estabelecidas restrições à entrada de
+capitais estrangeiros de curto prazo, a fim de evitar uma valorização excessiva
+do real. Na prática, o real operou num regime de bandas cambiais, com as
+autoridades mantendo a taxa de câmbio do dólar próxima de um limite inferior
+informal, e usando controles sobre o fluxo de capitais para perseguir uma
+política monetária independente.
+
+Mais complexa é a resposta à questão de quais foram exatamente as metas
+operacionais dessa política monetária. Inicialmente, no intuito de conquistar
+confiança, as autoridades se comprometeram com metas restritas para a base
+monetária, que acabaram por se revelar desnecessárias, em face da aceitação,
+muito acima das expectativas, da nova moeda. A expansão da demanda por
+moeda foi acomodada pelo uso de uma margem de erro de 20% incluída na lei
+que instituiu o real e pela definição da meta monetária em termos de médias
+trimestrais, em vez de valores de fim de período. Uma inovação foi o
+estabelecimento de metas trimestrais também para a “base monetária ampliada”,
+que soma a dívida do governo em poder do público ao conceito tradicional da
+base monetária.
+
+Na prática, a política monetária continuou a ser praticada, como antes do real,
+através de uma taxa de juros julgada adequada para manter a demanda privada
+por bens e serviços sob controle. O problema, porém, é que mudanças na taxa de
+juros parecem ter um impacto limitado devido a um efeito-riqueza perverso.
+Esse efeito decorre de o setor privado como um todo ser um credor líquido,
+enquanto o setor público é um devedor líquido, e de a maior parte da riqueza
+financeira do setor privado ser remunerada a taxas de juros flutuantes. Portanto,
+a riqueza financeira não declina em valor quando a taxa de juros aumenta e isso
+limita o impacto contracionista de uma alta da taxa de juros.76
+
+Por essa razão, o Banco Central no início do real adotou medidas destinadas a
+restringir diretamente a capacidade de criação de crédito do sistema bancário.
+Inicialmente, estabeleceu-se um compulsório de 100% sobre os depósitos à vista.
+Como os bancos continuaram a expandir seus empréstimos com o uso de CDBs
+e outros passivos, as autoridades decidiram estabelecer um compulsório de 15%
+diretamente sobre o volume de tais empréstimos, limitando ainda o número de
+prestações no crédito ao consumidor.
+
+Essas medidas de aperto monetário causaram um encurtamento das linhas de
+crédito interbancário, levando à falência vários bancos de menor porte e
+prejudicando a posição de liquidez dos bancos estaduais, que se viram
+incapacitados de continuar rolando as dívidas de curto prazo de seus respectivos
+estados no mercado. A resposta inicial das autoridades monetárias a esse
+problema tomou a forma de um swap temporário de títulos do Banco Central por
+títulos estaduais ilíquidos, até a posse dos novos governadores em 1º de janeiro
+de 1995, após a qual se pôde realizar um ataque mais firme ao problema
+estrutural da fragilidade financeira dos bancos estaduais.
+
+
+
+7.4.5. Estabilização sem recessão
+
+
+
+Enquanto o controle progressivo de uma inflação moderada é normalmente
+acompanhado de uma redução da atividade econômica, o fim súbito de inflações
+muito elevadas tende a provocar uma retomada da atividade econômica. O Plano
+Real não fugiu a essa regra: ocorreu uma aceleração significativa da atividade
+econômica a partir de 1º de julho de 1994, apesar do equilíbrio do orçamento
+federal e da prática de taxas de juros reais elevadas. Várias razões explicam esse
+fenômeno.
+
+Primeiro, o Plano Real eliminou abruptamente a coleta de um imposto
+inflacionário de 2% a 3% do PIB, que era anteriormente pago pela população de
+baixa renda sem acesso às contas remuneradas que protegiam a riqueza
+financeira dos brasileiros mais prósperos. Isso significava que, com a inflação
+elevada, o poder de compra efetivo dos salários tendia a ser de 10% a 15%
+menor do que seu pretenso valor no dia do pagamento, devido à deterioração
+provocada pela inflação diária nos saldos monetários, ao longo do período em
+que os salários eram gastos. Os assalariados procuravam se defender dessa
+deterioração concentrando suas compras no início de cada mês, mas isso não era
+de grande valia, já que os comerciantes costumavam concentrar os aumentos de
+preços no fim do mês, em antecipação ao surto da demanda no início do mês
+seguinte, pois sabiam que a busca de melhores ofertas por parte dos assalariados
+seria obliterada pela angústia de ver a inflação diária corroer seus rendimentos.
+Para ilustrar esse ponto com um caso concreto, no início de 1994 os
+trabalhadores de uma fazenda no interior do Estado de São Paulo pediram a seu
+patrão que mantivesse em segredo o dia do pagamento de seus salários, de modo
+que eles pudessem chegar às lojas da cidade mais próxima antes que os lojistas
+soubessem que os salários haviam sido pagos. Com o fim da inflação, a corrosão
+diária dos saldos monetários dos assalariados deixou de existir e, assim, seu
+poder de compra aumentou de forma significativa.
+Uma segunda razão para o surto de demanda foi que a poupança financeira
+protegida pelas cláusulas de indexação tornou-se menos atraente como hedge
+contra a variação dos preços relativos de ativos reais, já que essa variabilidade
+sofreu uma forte redução com o fim da inflação alta. Com a inflação baixa, a
+aquisição de ativos reais tornou-se mais atraente, porque seus preços ficaram
+menos voláteis, causando, assim, um aumento no nível desejado de estoques e de
+bens de consumo duráveis.
+
+Terceiro, a incerteza em relação à renda ocasionada pela inflação elevada tendia
+a induzir à poupança, como medida preventiva, para fazer frente a futuras
+variações da renda real. Isso também se tornou menos necessário em vista da
+relativa estabilidade da renda real observada após 1º de julho. Dessa forma,
+também o consumo advindo da renda corrente foi favorecido pela redução da
+incerteza quanto à renda real.
+
+Quarto, a incerteza a respeito da capacidade do governo de sustentar a
+estabilidade dos preços e da taxa de câmbio também pode ter levado a uma
+antecipação de despesas em consumo e investimento. Finalmente, a estabilidade
+da renda real melhorou a avaliação de crédito tanto dos consumidores quanto das
+firmas, induzindo a uma ruptura abrupta das restrições que antes limitavam a
+concessão de crédito tanto pelos bancos quanto pelo comércio.
+
+O governo reagiu ao surto da demanda privada apertando o crédito e reduzindo
+as barreiras às importações. A apreciação da taxa de câmbio real que ocorreu
+como consequência das entradas de capital atuou na mesma direção. Mas, no fim
+de 1994, o risco de um superaquecimento ainda apresentava um grande desafio
+para o Plano Real, como indicado por um rápido aumento da taxa de utilização
+da capacidade industrial e de uma reversão igualmente rápida do superávit no
+comércio exterior.
+
+
+
+7.5. Desequilíbrio econômico: 1995
+
+
+
+Quando Fernando Henrique assumiu a Presidência da República, em 1º. de
+janeiro de 1995, o sucesso inicial do Plano Real era incontestável. Como ilustra
+o Gráfico 1, a inflação caíra abruptamente de algo como 45% ao mês na primeira
+metade de 1994 para 1% a 2% ao mês no fim do ano.77
+Nesse período, a força do real fora testada por duas mudanças de ministros da
+Fazenda. Em abril de 1994, Fernando Henrique candidatou-se à Presidência e foi
+substituído por Rubens Ricupero. Em setembro, Ricupero cedeu seu lugar a Ciro
+Gomes. A saída de Fernando Henrique enfraqueceu o controle do Ministério da
+Fazenda sobre a execução da política econômica. Por exemplo, no fim de junho
+de 1994, Ricupero teve de ameaçar se demitir para conseguir deter medidas de
+controle de preços propostas pelo ministro da Justiça. Em setembro e de novo
+em dezembro, contrariando pareceres da equipe econômica, o governo decretou
+aumentos de salários para parcelas do funcionalismo público.
+
+Além desses percalços políticos, na segunda metade de 1994 o Plano também
+sobreviveu a uma geada devastadora, a um dos períodos mais longos de seca da
+história do país e a uma disparada dos preços das commodities no mercado
+internacional.
+
+O sucesso inicial do Plano Real demonstrou na prática a correção das
+proposições teóricas que o sustentavam: primeiro, que seria necessário
+demonstrar a vontade política de equilibrar as contas do governo sem a ajuda da
+corrosão inflacionária das despesas orçadas; segundo, que a conversão dos
+salários e demais contratos denominados em cruzeiros reais para uma unidade de
+conta indexada diariamente (a URV) não levaria necessariamente a uma
+aceleração súbita da inflação, desde que a conversão fosse realizada segundo os
+valores reais médios; e, terceiro, que, mediante uma reforma monetária, a
+inflação poderia ser interrompida, de uma forma preanunciada, sem o confisco
+de ativos financeiros ou o congelamento de preços e salários.
+
+A despeito do sucesso inicial do Plano, era claro que um desequilíbrio
+cumulativo estava em curso e que, sem uma ação governamental corretiva, tal
+desequilíbrio poderia levar a problemas similares àqueles que condenaram ao
+fracasso, desde 1986, as tentativas anteriores de estabilização da economia
+brasileira.
+
+Um dos principais problemas era a discrepância entre os aumentos dos salários
+nominais, determinados pelas regras da política salarial, e a apreciação cambial,
+determinada pelo rumo das políticas cambial e monetária. Dessa discrepância
+resultava uma forte valorização do câmbio em termos reais.
+
+Os salários foram convertidos em URV, em março de 1994, de acordo com o
+valor real médio dos quatro meses anteriores. Essas médias, entretanto, foram
+calculadas para os dias em que eles eram pagos, e não para os dias em que eram
+gastos. Isso gerou um ganho no poder de compra dos salários, depois do real,
+equivalente ao imposto inflacionário que erodia os salários em cruzeiros reais,
+entre o dia de pagamento e os dias de efetivo gasto dos salários. Além do mais,
+os salários passaram a ser recebidos mês a mês em uma moeda que preservava
+um poder de compra estável, enquanto anteriormente eles sofriam uma intensa
+deterioração real entre os picos que se seguiam aos reajustes quadrimestrais e os
+vales que precediam esses reajustes. Ainda que o valor real médio fosse o
+mesmo, ocorrera um ganho de renda real por causa da eliminação da volatilidade
+de renda real antes observada ao longo do ciclo quadrimestral de reajustes
+salariais. Tal ganho manifestou-se na facilidade com a qual os assalariados
+passaram a ter acesso ao crédito. O crédito ao consumidor expandiu-se
+consideravelmente no período, apesar do depósito compulsório de, na margem,
+100%, que, no início do Plano, o Banco Central impôs sobre os depósitos à vista
+nos bancos comerciais. Entre junho e dezembro de 1994, os empréstimos do
+sistema financeiro aos consumidores expandiram-se em nada menos do que
+150%.78
+
+
+
+Mais importante ainda, a indexação anual dos salários foi mantida por 12 meses,
+baseada num novo índice de preços, o IPCr (Índice de Preços ao Consumidor em
+Real), que nos primeiros três meses do plano acumulou uma variação de 23%.
+Essa variação foi determinada principalmente por uma combinação do retardo do
+registro da inflação em cruzeiros reais em junho de 1994 com problemas
+sazonais na oferta de alimentos, acompanhados por uma substancial elevação
+dos aluguéis residenciais. Não era, portanto, uma medida da inflação genuína em
+reais (que se reduziu para algo próximo de zero, como indicado pelo
+comportamento dos preços industriais no atacado). Quando incorporada aos
+salários, entretanto, essa variação provocou uma elevação real dos custos de
+produção, acentuando a dificuldade de manter o congelamento das tarifas e dos
+preços públicos e o controle informal exercido sobre os preços de setores
+oligopolistas do comércio e da indústria.
+
+
+
+              Gráfico 1 – Taxas mensais de inflação, 1993-1997
+Enquanto isso, a combinação das altas taxas de juros domésticas, produzidas por
+uma política monetária apertada, com a banda assimétrica da política cambial
+resultou numa apreciação do real em relação ao dólar. Da paridade unitária do
+início do Plano, o real apreciara-se para R$ 0,85 por dólar em 31 de dezembro de
+1994, isto é, uma apreciação cambial de 15%, que reforçou o declínio da relação
+entre a taxa de câmbio e os salários. O impacto negativo da apreciação cambial
+sobre as contas externas fortaleceu-se com a decisão tomada pela equipe
+econômica, em setembro de 1994, de acelerar o ritmo da abertura comercial,
+como meio de evitar a transmissão para os preços das pressões de custo e de
+demanda que se manifestavam.
+
+As pressões de demanda originaram-se do aumento do poder de compra dos
+salários já descrito, acompanhado de um movimento de antecipação de compras,
+tanto de bens de consumo duráveis quanto de equipamentos, na expectativa de
+que a estabilização seria apenas temporária, como sugerido pelo fracasso das
+experiências de estabilização anteriores. Esse aumento da demanda foi
+chancelado por uma expansão de 37% nos empréstimos do sistema financeiro
+para o setor privado, entre junho e dezembro de 1994.79
+
+A essas pressões de demanda do setor privado superpuseram-se aquelas advindas
+do setor público. A despeito da oposição da equipe econômica, Itamar concedeu,
+em setembro e dezembro de 1994, aumentos dos salários às Forças Armadas e às
+faixas de renda mais baixas do funcionalismo público, sob a justificativa de
+garantir isonomia salarial em relação aos funcionários do Legislativo e do
+Judiciário. Em janeiro de 1995, todos os funcionários públicos beneficiaram-se
+da lei de indexação salarial, não apenas com o reajuste integral de acordo com o
+IPCr, mas também com a substituição, por uma média salarial anual mais alta, da
+média quadrimestral mais baixa que fora adotada em março de 1994 na
+conversão dos salários em URV.
+
+A versão original da medida provisória enviada ao Congresso instituindo a URV
+sequer previa qualquer regra de correção monetária dos salários, seja do setor
+público seja do privado, mas apenas a substituição da média quadrimestral por
+uma média anual, na primeira data-base de negociação salarial após a introdução
+do real, caso a segunda média fosse superior à primeira. Foi para garantir a
+aprovação da medida provisória da URV antes de lançar o real que a equipe
+econômica negociou no Congresso a indexação anual dos salários pelo IPCr.
+Em março de 1995, Fernando Henrique decretou um significativo aumento dos
+bônus salariais para a elite de comando do Executivo federal. Finalmente, em
+maio de 1995, o salário mínimo foi reajustado para R$ 100, numa variação 10%
+superior à do IPCr, num movimento que também beneficiou as pensões e
+aposentadorias da previdência social.
+
+Em conjunto, essas decisões levaram a um forte aumento das contas de pessoal e
+de previdência do setor público como um todo, já que decisões similares, se não
+ainda mais generosas, foram adotadas nos estados e municípios.
+
+A expansão da demanda interna, parte da qual foi desviada para as importações,
+teve duas consequências: um elevado grau de utilização da capacidade na
+indústria e uma rápida deterioração da balança comercial. O comportamento dos
+índices de preços indicava que a combinação das pressões de custo com as de
+demanda eram suficientemente fortes para provocar um aumento da inflação, a
+despeito da maior concorrência de bens importados propiciada pela apreciação
+da taxa de câmbio e a aceleração da abertura comercial.
+
+Foi nesse contexto de forte queda da relação câmbio/salários e de desequilíbrio
+entre a demanda e a oferta que o Brasil foi golpeado, no fim de 1994, pelo
+“efeito tequila” da crise do balanço de pagamentos mexicano. Isso levou a uma
+fuga de capitais que reduziu as reservas internacionais, superpondo-se, assim, ao
+efeito negativo sobre elas da deterioração da balança comercial. Como
+consequência, as reservas internacionais experimentaram uma acentuada queda a
+partir do fim de 1994.
+
+
+
+7.6. Ajustamento e suas consequências: 1995/96
+
+
+
+Entre março e junho de 1995, o novo governo adotou uma série de medidas
+drásticas de política econômica para reagir aos desequilíbrios que ameaçavam a
+sustentação do Plano Real.
+
+Em primeiro lugar, foram tomadas as decisões de elevar substancialmente as
+taxas básicas de juros e de impor restrições adicionais à expansão creditícia.
+Essas medidas restritivas superpuseram-se àquelas já adotadas em dezembro de
+1994, que instituíram depósitos compulsórios de 30% sobre CDBs e 15% sobre
+os créditos bancários. Associadas a um aumento da taxa de inadimplência, tais
+medidas contracionistas tiveram um forte impacto sobre a expansão do crédito
+para o setor privado. Sua taxa de crescimento caiu para 20,6% na primeira
+metade de 1995, para 9,2% na segunda metade e daí para apenas 4% na primeira
+metade de 1996.80 Simultaneamente a esse aperto monetário, em março de 1995
+o governo promoveu uma desvalorização de 5% do real em relação ao dólar,
+substituiu a banda assimétrica por uma banda flutuante de câmbio e decretou
+uma aguda elevação, de 20% para 70%, das tarifas de importação de automóveis
+e eletrodomésticos.
+
+Graças à incerteza quanto à forma como o governo operaria o novo regime de
+bandas cambiais, houve um aumento temporário da pressão sobre as reservas
+internacionais – até que se esclarecesse que o Banco Central definiria de tempos
+em tempos uma “banda larga” para a taxa de câmbio e que, dentro dessa banda,
+realizaria uma política de intervenções diárias, para caracterizar uma
+“minibanda” e praticar pequenas, mas sucessivas, desvalorizações dessas
+minibandas durante o mês, em dias e magnitudes não preanunciados. O valor
+acumulado dessas minidesvalorizações, entretanto, seria pequeno em
+comparação com os diferenciais entre as taxas de juros de curto prazo internas e
+as internacionais. Isto é, foi mantido o incentivo para preservar em carteira
+títulos financeiros denominados em reais. A partir de setembro de 1995, o Banco
+Central passou a desvalorizar sistematicamente o real em relação ao dólar, a uma
+taxa mensal de aproximadamente 0,6%.
+
+As medidas cambiais adotadas não deram um incentivo para transferir ativos
+financeiros de curto prazo de dólares para reais, porque as entradas de capitais
+para a aquisição de ativos de renda fixa foram sujeitas a um imposto de 7%.
+Entretanto, até fevereiro de 1996, quando as brechas remanescentes foram
+fechadas pelo Banco Central, as exceções a essa regra possibilitaram uma
+considerável entrada de capitais de curto prazo.
+
+Em junho de 1995, o governo editou uma medida provisória de desindexação,
+abolindo o IPCr e instituindo um regime de livre negociação salarial a partir de
+julho daquele ano. Mais precisamente, nos acordos salariais anuais a partir dessa
+data, seria juridicamente garantido apenas o resíduo do IPCr acumulado de julho
+de 1994 a julho de 1995 que não fora repassado em acordos salariais anteriores.
+Assim, por exemplo, um sindicato com data-base em outubro de 1995 teria
+direito ao IPCr de outubro de 1994 a junho de 1995, mas teria de negociar
+qualquer compensação pela inflação ocorrida entre junho e setembro de 1995.
+Essa decisão implicou uma ruptura histórica com o regime de indexação salarial
+introduzido pelo regime militar em 1964. O objetivo tecnocrático de então fora
+substituir negociações salariais por um mero cálculo aritmético da inflação
+passada, mas seu único resultado foi a institucionalização da inflação como um
+meio de acomodar os conflitos distributivos entre trabalhadores e
+empregadores.81
+
+As medidas de ajustamento foram bem-sucedidas em reverter, a partir de abril de
+1995, a tendência inflacionária manifesta no índice de preços industriais no
+atacado. Por outro lado, as medidas adotadas em março de 1995 foram bem-
+sucedidas em reverter temporariamente o déficit externo: a partir de julho de
+1995, a balança comercial voltou a apresentar pequenos superávits, numa
+situação que esteve sob controle até a primeira metade de 1996. Daí em diante,
+entretanto, os déficits comerciais voltaram a aumentar à medida que a economia
+recuperava-se do aperto creditício de 1995.
+
+A partir da segunda metade de 1995, também se verificou uma reversão dos
+movimentos adversos na conta de capitais. Consequentemente, as reservas
+internacionais, que haviam declinado algo em torno de US$ 10 bilhões na
+primeira metade de 1995, mais do que recuperaram tais perdas, aumentando
+continuamente de valor, até atingir US$ 59 bilhões no fim de 1995. Os dados
+indicam uma mudança muito significativa na conta de capitais entre esses dois
+períodos: em 1995, as entradas a curto prazo atraídas pelos diferenciais de taxas
+de juros representaram a maior parte do financiamento. Em 1996, as entradas de
+curto prazo diminuíram, enquanto investimentos diretos e empréstimos de longo
+prazo representaram a maior parte do financiamento. Tais movimentos sugerem
+que os déficits comerciais eram menos preocupantes no fim de 1996 do que no
+início de 1995, já que, pelo menos temporariamente, um financiamento mais
+adequado parecia estar à disposição do país.
+
+As consequências negativas do aperto creditício apareceram em pelo menos três
+áreas: a atividade econômica, a fragilidade financeira e o déficit do setor público.
+O PIB estava crescendo a um ritmo acelerado, desde o lançamento do Plano Real
+até o primeiro trimestre de 1995. O aperto creditício não apenas paralisou a
+economia como também levou a um declínio da atividade econômica no
+segundo e terceiro trimestres daquele ano. A partir daí, a economia começou a se
+recuperar, lentamente de início, e mais firmemente na segunda metade de 1995.
+A força da recuperação no fim de 1996 aparentemente deveu-se ao fato de que,
+em março de 1996, em face do tépido comportamento da economia no primeiro
+trimestre, o Banco Central promoveu uma nova rodada de relaxamento das
+restrições à expansão do crédito ao consumidor.
+
+A desaceleração do nível de atividade econômica na segunda metade de 1995 e a
+persistente elevação das taxas de juros e dos salários agravaram a situação
+financeira das firmas que haviam se endividado durante a expansão econômica
+dos 12 meses anteriores. A agricultura e a produção de equipamentos agrícolas
+foram particularmente afetados, já que os preços dos alimentos caíram como
+consequência de uma supersafra em 1995.
+
+Além do mais, a apreciação do real e o aprofundamento do processo de
+liberalização comercial trouxeram dificuldades adicionais para as firmas mais
+frágeis dos setores mais diretamente afetados pela competição internacional,
+como bens de capital, autopeças, brinquedos, couro, vestuário e têxteis.
+Consequentemente, a inadimplência e as falências cresceram significativamente.
+A parcela dos empréstimos do sistema financeiro para o setor privado que estava
+atrasada ou sob liquidação passou de 7,5% para 15,4% do total, entre dezembro
+de 1994 e dezembro de 1995, e continuou a crescer até atingir o valor máximo
+de 19,8% em agosto de 1996.82
+
+Para os bancos comerciais, as perdas com tais créditos sobrepuseram-se ao fim
+dos ganhos com o imposto inflacionário, que obtinham anteriormente, de forma
+plena, sobre os depósitos a vista e as transferências financeiras e, parcialmente,
+sobre os depósitos a prazo. A fragilidade de uma parte do sistema financeiro
+ficou evidente quando o Banco Central, para interromper uma corrida às
+agências, foi forçado a fechar o Banco Econômico (o sétimo banco privado do
+país) em agosto de 1995. Apenas naquele momento foram tomadas as decisões
+tardias de instituir um sistema mais amplo de proteção aos depósitos a vista e de
+criar o Programa de Estímulo à Reestruturação e ao Fortalecimento do Sistema
+Financeiro Nacional (Proer). Esse programa possibilitou a transferência para
+novos proprietários dos bancos privados problemáticos, cuja bancarrota, no
+julgamento da autoridade monetária, poderia ameaçar a estabilidade do sistema
+financeiro como um todo. O Proer permitia a transferência para o governo
+federal dos créditos duvidosos dos bancos em dificuldade, tendo como
+contrapartida a garantia de certa tranquilidade no sistema financeiro.
+
+Por intermédio do Proer, o Banco Central adiantou empréstimos aos bancos em
+dificuldade (que normalmente eram colocados sob intervenção da autoridade
+monetária), num valor igual à diferença entre o total de seus passivos e o total
+dos bons ativos transferidos para os novos proprietários. Como colateral para
+esses empréstimos, o Banco Central aceitou pelo valor de face algumas dívidas
+velhas do governo federal, com um valor de mercado provavelmente 50%
+inferior ao das letras do Banco Central que foram emitidas para esterilizar a
+expansão monetária provocada pelos empréstimos feitos aos bancos sob
+intervenção. Como essas dívidas velhas foram registradas nas contas
+governamentais por seu valor de face, esse mecanismo de resgate não
+representou um aumento imediato no déficit orçamentário ou na dívida líquida
+do setor público, o que apenas aconteceria quando os débitos duvidosos fossem
+liquidados e as garantias fossem executadas. Utilizando a prática
+internacional,83 uma estimativa aproximada dos custos do Proer e de outras
+intervenções do Banco Central seria de 4,7% do PIB, sendo 3% em créditos do
+BC para o sistema bancário, entre dezembro de 1994 e novembro de 1996, e
+1,7% da recapitalização do Banco do Brasil no início de 1996.
+
+Um terceiro impacto da política de elevação das taxas de juros foi sobre o déficit
+do setor público. No conceito operacional, o balanço consolidado do setor
+público alterou-se de um superávit de 1,3% do PIB em 1994 para um déficit de
+4,8% do PIB em 1995, uma deterioração de 6,1% do PIB. Três quartos dessa
+deterioração deveram-se ao já mencionado aumento nos salários e
+aposentadorias, já que o resultado primário alterou-se de um superávit de 5,1%
+em 1994 para apenas 0,4% do PIB em 1995. Mas também digno de nota é o
+impacto do pagamento de juros reais, que aumentou de 3,8 para 5,1% do PIB
+entre 1994 e 1995.
+
+O aumento do déficit operacional em 1995 levou a uma interrupção do processo
+de declínio gradual da dívida líquida do setor público como proporção do PIB
+que vinha ocorrendo desde o início da década. Entre dezembro de 1994 e
+dezembro de 1995, a dívida líquida aumentou de 28,1 para 29,9% do PIB e daí
+para 34,2% do PIB em dezembro de 1996.
+
+
+
+7.7. Conclusões
+
+
+
+Apesar de o Plano Real ter tido um sucesso espetacular em seus primeiros seis
+meses de existência, a economia brasileira encontrava-se numa rota insustentável
+quando o país foi golpeado pela crise mexicana, em termos de desequilíbrios
+crescentes entre demanda e produção e salários e preços. As causas dessas
+tendências foram múltiplas: a indexação salarial, o déficit do setor público, a
+apreciação da taxa de câmbio, a expansão do crédito para o setor privado.
+
+As iniciativas restritivas adotadas na primeira metade de 1995 mostraram-se
+bem-sucedidas em superar os problemas iniciais do Plano e mantiveram a
+tendência declinante da inflação ao longo da segunda metade de 1996. O
+ressurgimento de grandes déficits comerciais desde setembro de 1996 indicava,
+entretanto, que o mix de políticas mostrava-se incapaz de garantir
+simultaneamente a estabilidade de preços, o crescimento sustentado do PIB e o
+equilíbrio externo.
+
+A conclusão é que o Plano Real não apenas foi bem-sucedido em baixar as taxas
+de inflação, mas também em mantê-las baixas. Entretanto, ainda não foi bem-
+sucedido em produzir uma tendência econômica na qual o controle inflacionário
+seja compatível com crescimento econômico sustentado e razoável equilíbrio
+externo.
+
+
+
+Referências
+
+
+
+ARIDA, P.; LARA RESENDE, A. “Inflação inercial e reforma monetária”. In:
+Persio Arida (org.). Inflação zero. Rio de Janeiro: Paz e Terra, 1986.
+
+BACHA, E.L. “O fisco e a inflação: uma interpretação do caso brasileiro”.
+Revista de Economia Política (53), v. 14, nº 1, jan./mar. 1994, pp. 5-17.
+[Reproduzido como capítulo 6 deste livro].
+
+_______ .“O Plano Real: uma avaliação”. In: Aloizio Mercadante (org.). O
+Brasil pós-real: a política econômica em debate. Campinas: Unicamp, 1997, pp.
+11-70.
+
+_______ .“Brazil’s Plano Real: a view from the inside”. In: A.K. Dutt e J. Ros
+(orgs.). Development Economics and Struturalist Macroeconomics: Essays in
+Honor of Lance Taylor. Cheltenham: Edward Elgar, 2003, pp. 181-205.
+BOLETIM DO BANCO CENTRAL. Brasília, v. 32, nº 4, abr. 1996a.
+
+BOLETIM DO BANCO CENTRAL. Brasília, v. 32, nº 12, dez. 1996b.
+
+CARNEIRO, D.D. “Ajuste externo e desequilíbrio interno”. In: M. Paiva Abreu
+(org.). A ordem do progresso: cem anos de política econômica republicana,
+1889-1989. Rio de Janeiro: Campus, 1990, 4ª ed.
+
+FARO, C. (org.). O Plano Collor. Rio de Janeiro: Ao Livro Técnico, 1990.
+
+_______ .O Plano Collor 2. Rio de Janeiro: Ao Livro Técnico, 1991.
+
+FISHLOW, A. “O estilo de indexação brasileiro: inflação sem lágrimas?” In: A.
+Fishlow, Desenvolvimento no Brasil e na América Latina – Uma perspectiva
+histórica. Rio de Janeiro: Paz e Terra, 2004 (versão original em inglês:
+Brookings Papers on Economic Activity, nº. 1, 1974).
+
+GARCIA, M. “Avoiding some costs of inflation and crawling towards
+hyperinflation: the case of Brazilian domestic currency substitute”. Journal of
+Development Economics, v. 51, nº. 1, out. 1996, pp. 139-59.
+
+LOPES, F. “O mecanismo de transmissão de política monetária numa economia
+em processo de estabilização: notas sobre o caso do Brasil”. Revista de
+Economia Política, v. 17, nº. 3, jul/set. 1997, pp. 5-11.
+
+MODIANO, E. “A ópera dos três cruzados: 1985-1989”. Em: M. Paiva Abreu
+(org.). A ordem do progresso: cem anos de política econômica republicana,
+1889-1989. Rio de Janeiro: Campus, 1990, 4ª ed.
+
+OLIVEIRA, G. Brasil Real. São Paulo: Mandarim, 1996.
+
+PLANO. Fernando Henrique Cardoso. Exposição de Motivos nº. 395, de 7 de
+dezembro de 1993. Revista de Economia Política, v. 14, nº. 2 (54), abr./jun.
+1994, pp. 114-31.
+
+ROJAS-SUÁREZ, L. e WEISBROD, S. “Banking crises in Latin America:
+experience and issues”. In: R. Hausmann e L. Rojas-Suárez (orgs.). Banking
+crises in Latin America. Washington: Inter-American Development Bank, 1996,
+pp. 3-21.
+Notas
+
+
+
+68 Adaptado de Bacha (2003), com material de Bacha (1997). Publicado com
+autorização de Edward Elgar Publishing Ltd. Agradeço a Adauto de Lima pelo
+trabalho de assistência de pesquisa. Tradução do inglês por Pedro Paulo Zahluth
+Bastos, revista pelo autor.
+
+
+
+69 Para análises das tentativas de estabilização do governo Collor, ver Faro
+(1990, 1991).
+
+
+
+70 Para uma avaliação, ver Modiano (1990).
+
+
+
+71 Para uma avaliação, ver Carneiro (1990).
+
+
+
+72 Para uma modelagem do tipo brasileiro de inflação, com déficit operacional
+nulo e moeda indexada, ver Bacha (1994, apêndice B ), reproduzido como cap. 6
+deste livro.
+
+
+
+73 No início de setembro, devido a declarações infelizes, inadvertidamente
+transmitidas pela televisão a cabo, o embaixador Rubens Ricupero teve de deixar
+o ministério, sendo substituído pelo então governador do Ceará, Ciro Gomes,
+que também manteve em seus cargos toda a equipe de Fernando Henrique.
+
+
+
+74 Sobre o tema, ver Oliveira (1996, pp. 59-66).
+75 Para uma análise técnica, ver Garcia (1996).
+
+
+
+76 Para uma análise mais aprofundada, ver Lopes (1997).
+
+
+
+77 O Gráfico 1 mostra o comportamento do Índice Geral de Preços –
+Disponibilidade Interna da Fundação Getulio Vargas.
+
+
+
+78 Cf. Boletim (1996a, p. 98).
+
+
+
+79 Boletim (1996a, p. 98).
+
+
+
+80 Cf. Boletim (1996b, p. 110).
+
+
+
+81 Para uma das primeiras críticas do sistema de indexação brasileiro, ver
+Fishlow (2004).
+
+
+
+82 Boletim (1996b, pp. 106 e 110).
+
+
+
+83 Ver, por exemplo, Rojas-Suárez e Weisbrod (1996).
+III. Retomada do crescimento e políticas sociais
+
